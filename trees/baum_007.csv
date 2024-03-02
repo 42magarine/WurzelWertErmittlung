@@ -1,0 +1,1384 @@
+Baum ID,Nr.,Deutsche Bezeichnung,Ort,Stadtteil,Stadtviertel,Straße,Geburtsjahr,Alter,X-Koordinate,Y-Koordinate
+BKA~BAUM-13642,85734,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512964918,5444751102
+BKA~BAUM-13654,85746,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512894891,5444771132
+BKA~BAUM-13653,85745,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512899229,5444769003
+BKA~BAUM-13565,85657,Apfelbaumart,Heilbronn,Frankenbach,Stadtviertel 0078,Heilbronner Straßenäcker,,,512944847,5444387311
+BKA~BAUM-13566,85658,Kultur-Birne,Heilbronn,Frankenbach,Stadtviertel 0078,Heilbronner Straßenäcker,,,512959727,5444387781
+BKA~BAUM-13655,85747,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512909638,5444736040
+BKA~BAUM-13643,85735,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512967047,5444746843
+BKA~BAUM-13064,85157,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,,,512092514,5445091563
+BKA~BAUM-13562,85654,Reinbestand (Obstbaum),Heilbronn,Frankenbach,Stadtviertel 0078,Hinterer Schleifweg,,,512032926,5444471290
+BKA~BAUM-13560,85652,Kultur-Birne,Heilbronn,Frankenbach,Stadtviertel 0078,Hinterer Schleifweg,,,512144214,5444473875
+BKA~BAUM-13559,85651,Kultur-Birne,Heilbronn,Frankenbach,Stadtviertel 0078,Hinterer Schleifweg,,,512142570,5444478496
+BKA~BAUM-13558,85650,Kirschenart,Heilbronn,Frankenbach,Stadtviertel 0078,Hinterer Schleifweg,,,512053680,5444475050
+BKA~BAUM-13557,85649,Kirschenart,Heilbronn,Frankenbach,Stadtviertel 0078,Hinterer Schleifweg,,,512010293,5444474267
+BKA~BAUM-13556,85648,Walnuß,Heilbronn,Frankenbach,Stadtviertel 0078,Hinterer Schleifweg,,,512003871,5444467766
+BKA~BAUM-13554,85646,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Süd,Vorderer Schleifweg,,,512216179,5444535832
+BKA~BAUM-13066,85159,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Süd,Unteres Wert,,,512355662,5444755382
+BKA~BAUM-13067,85160,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Süd,Unteres Wert,,,512353388,5444761867
+BKA~BAUM-13545,85637,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Unteres Wert,,,512276074,5444731424
+BKA~BAUM-13541,85633,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,,,512167507,5445280276
+BKA~BAUM-8768,77151,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.43,81,512454400,5444944900
+BKA~BAUM-14267,86349,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,512040324,5444616269
+BKA~BAUM-13569,85661,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512813352,5445222682
+BKA~BAUM-13567,85659,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512817102,5445215345
+BKA~BAUM-13568,85660,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512821832,5445220810
+BKA-6979,6979,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,512240050,5444670287
+BKA-6985,6985,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,01.01.60,64,512252352,5444559939
+BKA-6885,6885,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Saarbrückener Straße,01.01.75,49,512635279,5444952771
+BKA~BAUM-9548,78034,Zerr-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.10,14,512785487,5445293789
+BKA~BAUM-8776,77159,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.75,49,512470900,5444974000
+BKA~BAUM-8775,77158,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.96,28,512473100,5444969200
+BKA~BAUM-8773,77156,Winter-Linde,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.42,82,512472000,5444962700
+BKA~BAUM-8772,77155,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.67,57,512465800,5444959000
+BKA~BAUM-8771,77154,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.95,29,512464500,5444954000
+BKA~BAUM-13561,85653,Reinbestand (Obstbaum),Heilbronn,Frankenbach,Stadtviertel 0078,Hinterer Schleifweg,,,512112418,5444475441
+BKA~BAUM-14269,86351,Walnuß,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,512022754,5444566145
+BKA~BAUM-14268,86350,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,512043384,5444584866
+BKA~BAUM-14239,86321,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,512034872,5444546479
+BKA~BAUM-14238,86320,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,512055775,5444545206
+BKA~BAUM-14237,86319,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,512039416,5444540935
+BKA~BAUM-13620,85712,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512830439,5445240261
+BKA~BAUM-13564,85656,Apfelbaumart,Heilbronn,Frankenbach,Stadtviertel 0078,Heilbronner Straßenäcker,,,512821968,5444379636
+BKA~BAUM-13563,85655,Silber-Weide,Heilbronn,Frankenbach,Stadtviertel 0078,Heilbronner Straßenäcker,,,512828860,5444381437
+BKA~BAUM-13555,85647,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512235043,5444535704
+BKA~BAUM-13551,85643,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512256744,5444605401
+BKA~BAUM-13550,85642,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512244083,5444603207
+BKA~BAUM-13549,85641,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512240127,5444602128
+BKA~BAUM-13553,85645,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512230775,5444599142
+BKA~BAUM-13547,85639,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512218797,5444599070
+BKA~BAUM-13546,85638,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512197629,5444601412
+BKA~BAUM-13065,85158,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Bild,,,512100012,5445075248
+BKA-6776,6776,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512804746,5445251252
+BKA-6777,6777,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512806245,5445246653
+BKA-6778,6778,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512807744,5445250252
+BKA-6775,6775,Geschlitzter Silber-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512794350,5445258052
+BKA-6817,6817,Großblatt-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512815679,5445260617
+BKA-6772,6772,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512767161,5445238163
+BKA-6773,6773,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512760663,5445229468
+BKA-6771,6771,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.08,116,512758365,5445248160
+BKA-6774,6774,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512765941,5445228118
+BKA-6998,6998,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Saarbrückener Straße,,,512893903,5444603010
+BKA-6997,6997,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,,,512892005,5444646991
+BKA-64662,64662,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.85,39,512549447,5445118775
+BKA-6767,6767,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.80,44,512559743,5445124613
+BKA-68570,68570,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.80,44,512528187,5445220232
+BKA-68572,68572,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.80,44,512514281,5445208198
+BKA-68573,68573,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.70,54,512508843,5445215684
+BKA-64661,64661,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.85,39,512551837,5445185687
+BKA-64660,64660,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.85,39,512553148,5445200291
+BKA-6748,6748,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.60,64,512536452,5445158106
+BKA-6758,6758,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.85,39,512536652,5445149109
+BKA-6548,6548,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Mitte,Lückenstraße,,,512144781,5445050834
+BKA-64663,64663,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.85,39,512100303,5445060500
+BKA-6709,6709,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Mitte,Kirchstraße,01.01.20,104,512315343,5445104792
+BKA-6893,6893,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Süd,Saarbrückener Straße,,,512625612,5444933777
+BKA-6894,6894,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Saarbrückener Straße,,,512620534,5444932928
+BKA-6897,6897,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Saarbrückener Straße,01.01.74,50,512636709,5444946273
+BKA-6895,6895,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Saarbrückener Straße,01.01.80,44,512635709,5444945073
+BKA~BAUM-6741,74929,Blauglockenbaum,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.05,19,512699086,5444957573
+BKA-6813,6813,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512712377,5445006494
+BKA-6797,6797,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.60,64,512685990,5445026248
+BKA-50016,50016,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.90,34,512688889,5445018651
+BKA-6807,6807,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.51,73,512696086,5445013353
+BKA-6809,6809,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.70,54,512710779,5445018351
+BKA-6810,6810,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.70,54,512715178,5445012753
+BKA-6942,6942,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.70,54,512707468,5445004769
+BKA-63238,63238,Chinesisches Rotholz,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.92,32,512678293,5445012853
+BKA-6931,6931,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.22,102,512674495,5445005555
+BKA-6932,6932,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.20,104,512675694,5444996158
+BKA~BAUM-6743,74930,Gold - Gleditschie,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,01.01.05,19,512707982,5444981464
+BKA~BAUM-6745,74931,Gold - Gleditschie,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,01.01.05,19,512694287,5444975166
+BKA-6937,6937,Kugel-Tompetenbaum `Nana`,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.55,69,512688889,5444989961
+BKA-6938,6938,Kugel-Tompetenbaum `Nana`,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.72,52,512690888,5444995659
+BKA-6934,6934,Kugel-Tompetenbaum `Nana`,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.60,64,512685290,5444997458
+BKA-6798,6798,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.51,73,512693686,5445030347
+BKA-6799,6799,Gewöhnlicher Trompetenbaum,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.75,49,512699884,5445028148
+BKA-6788,6788,Silber-Weide,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.30,94,512690287,5445061036
+BKA-6783,6783,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.60,64,512681192,5445066234
+BKA-66959,66959,Zerr-Eiche,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.99,25,512684990,5445054538
+BKA-6786,6786,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.43,81,512670296,5445035244
+BKA-6944,6944,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Ost,Saarbrückener Straße,01.01.60,64,512730972,5444996060
+BKA-6811,6811,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512718776,5445025849
+BKA-6779,6779,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512692486,5445063035
+BKA-6795,6795,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512706780,5445042942
+BKA-64729,64729,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512677393,5445075530
+BKA-6953,6953,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Ost,Kaiserslauterner Straße,01.01.70,54,512784249,5444958473
+BKA-6975,6975,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Süd,Steinhaldestraße,01.01.76,48,512397596,5444718258
+BKA-6992,6992,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Süd,Steinhaldestraße,01.01.60,64,512454674,5444732648
+BKA-6990,6990,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Steinhaldestraße,01.01.60,64,512485562,5444744541
+BKA-6989,6989,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Steinhaldestraße,01.01.60,64,512504555,5444747737
+BKA-6983,6983,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,01.01.60,64,512248253,5444563238
+BKA-6982,6982,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,01.01.60,64,512248453,5444567636
+BKA~BAUM-3226,71689,Gewöhnlicher Trompetenbaum,Heilbronn,Frankenbach,Frankenbach - Süd,Brechhausstraße,01.01.02,22,512814144,5444756945
+BKA-64656,64656,Stachellose Gleditschie,Heilbronn,Frankenbach,Frankenbach - Mitte,Kirchstraße,01.01.90,34,512361955,5445062167
+BKA-64655,64655,Stachellose Gleditschie,Heilbronn,Frankenbach,Frankenbach - Mitte,Kirchstraße,01.01.90,34,512363064,5445058269
+BKA-6967,6967,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511993215,5444612863
+BKA-6968,6968,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,512016359,5444616289
+BKA-64658,64658,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.85,39,512370805,5445109390
+BKA-49247,49247,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Backhausstraße,01.01.90,34,512451678,5445054438
+BKA-6764,6764,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Backhausstraße,01.01.85,39,512437483,5445058137
+BKA-6733,6733,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Backhausstraße,01.01.85,39,512388601,5445044933
+BKA~BAUM-8332,76668,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Backhausstraße,01.01.08,16,512469473,5445059236
+BKA-6627,6627,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Am Rotbach,01.01.82,42,512290346,5445242451
+BKA-6626,6626,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Am Rotbach,01.01.79,45,512295844,5445243251
+BKA-6624,6624,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Am Rotbach,01.01.84,40,512288246,5445251748
+BKA-6625,6625,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Am Rotbach,01.01.74,50,512293644,5445252947
+BKA-6792,6792,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512700683,5445054738
+BKA-6791,6791,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512703782,5445057937
+BKA-6793,6793,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512700683,5445054738
+BKA-6796,6796,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512712078,5445038044
+BKA-6812,6812,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512725773,5445025949
+BKA-6815,6815,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512725773,5445019051
+BKA-6814,6814,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512724174,5445021850
+BKA-6816,6816,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512733670,5445011154
+BKA~BAUM-4717,73078,Gemeine Fichte,Heilbronn,Frankenbach,Frankenbach - Mitte,Saarbrückener Straße,01.01.60,64,512653361,5445033185
+BKA-6916,6916,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Mitte,Saarbrückener Straße,,,512660900,5445021149
+BKA~BAUM-7234,75476,Schwarznuß,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,01.01.06,18,512698935,5444990252
+BKA~BAUM-7235,75477,Gold - Gleditschie,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,01.01.06,18,512687269,5444975331
+BKA~BAUM-8777,77160,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.23,101,512743540,5445284100
+BKA~BAUM-8785,77168,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.94,30,512707791,5445292423
+BKA~BAUM-8786,77169,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.87,37,512706929,5445286347
+BKA~BAUM-8778,77161,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.23,101,512724597,5445292811
+BKA~BAUM-8788,77171,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.79,45,512730975,5445274712
+BKA~BAUM-8789,77172,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.84,40,512724511,5445277041
+BKA~BAUM-8790,77173,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.87,37,512720833,5445279353
+BKA~BAUM-8787,77170,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.01,23,512720790,5445285127
+BKA~BAUM-8824,77208,Freemanns - Ahorn `Celzam`( Celebration),Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.09,15,512777785,5445264360
+BKA~BAUM-11256,82527,Spitzahorn - Eurostar,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,,,512117908,5445271024
+BKA~BAUM-12125,84236,Gold - Gleditschie,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnlestraße,,,512717977,5444988062
+BKA~BAUM-12128,84239,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512274843,5444563537
+BKA~BAUM-13548,85640,Eichenart,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512219984,5444606264
+BKA~BAUM-13552,85644,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Schleifweg,,,512257931,5444615652
+BKA~BAUM-13063,85156,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,,,512089401,5445095394
+BKA~BAUM-7227,75469,Zerr-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.06,18,512778871,5445296349
+BKA-7410,7410,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512756668,5445294941
+BKA~BAUM-8783,77166,Birnenart,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.54,70,512702016,5445293847
+BKA~BAUM-8782,77165,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.84,40,512697836,5445294149
+BKA~BAUM-8779,77162,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.51,73,512717400,5445296165
+BKA~BAUM-8784,77167,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.87,37,512709960,5445296069
+BKA-6616,6616,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.70,54,512237976,5445238763
+BKA-6632,6632,Eingriffliger Weißdorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.82,42,512258808,5445236003
+BKA-6639,6639,Berg-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.86,38,512257959,5445221159
+BKA-6640,6640,Berg-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.88,36,512258260,5445218160
+BKA-6644,6644,Berg-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.68,56,512257960,5445212062
+BKA-6634,6634,Krim-Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.58,66,512273054,5445224358
+BKA-6636,6636,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.43,81,512287350,5445213162
+BKA-6647,6647,Krim-Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.58,66,512270556,5445209663
+BKA-6672,6672,Krim-Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.51,73,512278255,5445198766
+BKA-6673,6673,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.41,83,512290751,5445194068
+BKA-6671,6671,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.42,82,512273958,5445187270
+BKA-6674,6674,Reinbestand (Nadelbaum),Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,,,512282655,5445181942
+BKA-6670,6670,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.44,80,512269170,5445177683
+BKA-6668,6668,Reinbestand (Nadelbaum),Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,,,512263522,5445174864
+BKA-6667,6667,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.49,75,512257503,5445175424
+BKA-6666,6666,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.68,56,512245716,5445175514
+BKA-6682,6682,Gemeine Fichte,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.40,84,512251865,5445167577
+BKA-6680,6680,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.08,116,512268763,5445152880
+BKA-6677,6677,Krim-Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512295202,5445167706
+BKA-6695,6695,Krim-Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512300152,5445148481
+BKA-6704,6704,Schuppen-Wacholder,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.84,40,512304450,5445126088
+BKA-6703,6703,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.44,80,512300911,5445125018
+BKA-64641,64641,Scharlach-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512295144,5445128647
+BKA-64640,64640,Scharlach-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512293015,5445135655
+BKA-64639,64639,Scharlach-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512291326,5445141873
+BKA-64642,64642,Scharlach-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512286878,5445140373
+BKA-64643,64643,Scharlach-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512288657,5445134245
+BKA-64644,64644,Scharlach-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512290645,5445127147
+BKA-6701,6701,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.30,94,512287456,5445120189
+BKA-6697,6697,Feuerscheinzypresse,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.34,90,512277309,5445113002
+BKA-6690,6690,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.90,34,512265721,5445108775
+BKA-6728,6728,Zerr-Eiche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.85,39,512276361,5445127987
+BKA-6691,6691,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.28,96,512262463,5445118891
+BKA-6684,6684,Straßen-Akazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.63,61,512260414,5445129908
+BKA-6692,6692,Gemeine Fichte,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.21,103,512258266,5445137185
+BKA-6688,6688,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.36,88,512252863,5445108196
+BKA-6687,6687,Gemeine Fichte,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.24,100,512248465,5445114195
+BKA-6686,6686,Moor-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.59,65,512247166,5445122992
+BKA-6685,6685,Gemeine Fichte,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.26,98,512244468,5445134888
+BKA-6665,6665,Moor-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.54,70,512240869,5445151982
+BKA-6663,6663,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.46,78,512238669,5445163479
+BKA-6662,6662,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.40,84,512234170,5445168977
+BKA-6661,6661,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.88,136,512233170,5445175375
+BKA-6658,6658,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.51,173,512230070,5445183972
+BKA-6659,6659,Tulpenbaum,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.44,80,512235169,5445186771
+BKA-6726,6726,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.85,39,512224772,5445189670
+BKA-6654,6654,Stachellose Gleditschie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.52,72,512226771,5445197867
+BKA-6655,6655,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.30,94,512209676,5445183973
+BKA-6592,6592,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.31,93,512195280,5445175777
+BKA-6591,6591,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.82,42,512192381,5445174778
+BKA-6740,6740,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.75,49,512179284,5445167182
+BKA-6604,6604,Kultur-Birne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.06,118,512195374,5445099707
+BKA-6602,6602,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.54,70,512179177,5445100509
+BKA-7301,7301,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.76,48,512254958,5445266842
+BKA-6520,6520,Sal-Weide,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.49,75,512123411,5445148072
+BKA-6480,6480,Trauben-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.20,104,512136201,5445248852
+BKA-6478,6478,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.80,44,512122506,5445248452
+BKA-6471,6471,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.51,73,512109221,5445247013
+BKA-6472,6472,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.91,33,512105343,5445243075
+BKA-64635,64635,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.62,62,512100145,5445250472
+BKA-6474,6474,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.26,98,512102244,5445235218
+BKA-6476,6476,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.30,94,512106503,5445231730
+BKA-6559,6559,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.85,39,512132203,5445244654
+BKA-6489,6489,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.67,57,512149726,5445240934
+BKA-7250,7250,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.59,65,512110031,5445270794
+BKA-6603,6603,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.73,51,512174878,5445097111
+BKA-6518,6518,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.38,86,512120303,5445153190
+BKA-6523,6523,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.84,40,512136997,5445145692
+BKA-6578,6578,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.89,35,512193981,5445212064
+BKA-6566,6566,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.95,29,512185584,5445240553
+BKA-6532,6532,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.62,62,512158587,5445120602
+BKA-64634,64634,Abendländischer Lebensbaum,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.91,33,512169627,5445152118
+BKA-6512,6512,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.78,46,512128101,5445169484
+BKA-7253,7253,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.19,105,512129973,5445271123
+BKA-7252,7252,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.56,68,512124835,5445270813
+BKA~BAUM-7907,76239,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.07,17,512498064,5445111923
+BKA-67465,67465,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.00,24,512503562,5445103624
+BKA-64651,64651,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.01,23,512495855,5445117383
+BKA-64645,64645,Winter-Linde,Heilbronn,Frankenbach,Frankenbach - Mitte,Speyerer Straße,01.01.84,40,512516279,5445155620
+BKA-6756,6756,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.85,39,512498365,5445168008
+BKA-64646,64646,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.88,36,512447544,5445139274
+BKA-64647,64647,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.88,36,512425612,5445132179
+BKA-6724,6724,Geschlitzter Silber-Ahorn,Heilbronn,Frankenbach,Frankenbach - Mitte,Am Rotbach,01.01.32,92,512416347,5445138625
+BKA~BAUM-4718,73079,Italienische Erle,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.00,24,512492972,5445123088
+BKA-6540,6540,Trauben-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.23,101,512149685,5445088617
+BKA~BAUM-14240,86322,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Süd,<0812100082705>,,,511743140,5444465502
+BKA~BAUM-14287,86368,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511547179,5444429377
+BKA~BAUM-14286,86367,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511550962,5444433671
+BKA~BAUM-14282,86363,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511590198,5444466177
+BKA~BAUM-14280,86361,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511630089,5444488731
+BKA~BAUM-14279,86360,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511627329,5444498239
+BKA~BAUM-14278,86359,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511638946,5444494022
+BKA~BAUM-14276,86357,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Nach Leingarten,,,511696956,5444547623
+BKA~BAUM-14241,86323,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511587095,5444420607
+BKA~BAUM-2124,70771,Bruch-Weide,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Grabenäcker,,,511051329,5444363616
+BKA~BAUM-2123,70770,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Grabenäcker,,,511054928,5444362116
+BKA~BAUM-2122,70769,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kolbenäcker,,,511084017,5444349921
+BKA~BAUM-2121,70767,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Grabenäcker,,,511093214,5444346322
+BKA~BAUM-2120,70766,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Grabenäcker,,,511102010,5444342423
+BKA-3473,3473,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511597710,5444500263
+BKA-3474,3474,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511605607,5444506161
+BKA-3462,3462,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511516250,5444441887
+BKA-3463,3463,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511518949,5444444286
+BKA-3464,3464,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511523546,5444447284
+BKA-3458,3458,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511461282,5444392110
+BKA-3482,3482,xxxxx,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511430194,5444341529
+BKA-3472,3472,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511589814,5444494565
+BKA-3459,3459,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511472576,5444402705
+BKA-3457,3457,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511444488,5444368019
+BKA-3467,3467,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511541937,5444461478
+BKA-3465,3465,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511535740,5444457780
+BKA-3418,3418,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Nach Leingarten,,,511706074,5444551543
+BKA-3448,3448,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Nach Leingarten,,,511900528,5444598238
+BKA-3489,3489,Sal-Weide,Heilbronn,Frankenbach,Frankenbach - Süd,Nach Leingarten,,,511430093,5444284153
+BKA-3487,3487,Sal-Weide,Heilbronn,Frankenbach,Frankenbach - Süd,Nach Leingarten,,,511430892,5444288851
+BKA-3488,3488,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Nach Leingarten,,,511426994,5444286452
+BKA-3352,3352,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Nach Leingarten,,,511412101,5444240471
+BKA-3414,3414,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511658482,5444537550
+BKA-3413,3413,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511650486,5444532552
+BKA-3416,3416,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511671875,5444545448
+BKA-3415,3415,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511669277,5444544248
+BKA-3434,3434,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Nach Leingarten,,,511813320,5444583333
+BKA-3475,3475,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511467305,5444367068
+BKA-3466,3466,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511536440,5444455081
+BKA-3468,3468,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511543236,5444459279
+BKA-3470,3470,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511558729,5444471474
+BKA-3471,3471,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511573621,5444481970
+BKA-3460,3460,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511485268,5444413900
+BKA-3461,3461,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511500359,5444427593
+BKA-3469,3469,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511556530,5444470274
+BKA-3408,3408,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511618001,5444513159
+BKA-3409,3409,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511624698,5444517857
+BKA-3410,3410,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511632794,5444521856
+BKA-3411,3411,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511638891,5444525255
+BKA-3412,3412,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511643289,5444528054
+BKA-6609,6609,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.62,62,512228968,5445259645
+BKA-7296,7296,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.55,69,512233366,5445262544
+BKA-7298,7298,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.43,81,512240063,5445263243
+BKA-6734,6734,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.81,43,512243982,5445256286
+BKA-6735,6735,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.81,43,512246012,5445245720
+BKA-6622,6622,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.51,73,512268553,5445250448
+BKA-6630,6630,Straßen-Akazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.45,79,512269254,5445242151
+BKA-6628,6628,Straßen-Akazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.37,87,512281049,5445245050
+BKA-6623,6623,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.46,78,512278250,5445253846
+BKA-6621,6621,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.75,49,512270052,5445260144
+BKA-6496,6496,Trauben-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.92,132,512107911,5445206270
+BKA-6497,6497,Trauben-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.62,62,512109210,5445199572
+BKA-6498,6498,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.82,42,512119506,5445201971
+BKA-6501,6501,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.86,38,512145577,5445204599
+BKA-6506,6506,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.90,34,512113408,5445182679
+BKA-6507,6507,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.83,41,512112308,5445179480
+BKA-6511,6511,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.78,46,512118105,5445168184
+BKA-6560,6560,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.86,38,512168939,5445221411
+BKA-6564,6564,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.90,34,512178386,5445241453
+BKA-6739,6739,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.86,38,512185663,5445206976
+BKA-6572,6572,Serbische Fichte,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.78,46,512194751,5445244621
+BKA-6492,6492,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.91,33,512148497,5445231708
+BKA-6488,6488,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.76,48,512155794,5445232857
+BKA-7256,7256,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.67,57,512151496,5445264845
+BKA-6573,6573,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.47,77,512199099,5445247900
+BKA-7257,7257,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.74,50,512158193,5445264145
+BKA-7258,7258,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.71,53,512166390,5445267344
+BKA-6571,6571,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.36,88,512207266,5445248360
+BKA-6482,6482,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.80,44,512166290,5445259946
+BKA-7279,7279,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.83,41,512172988,5445264145
+BKA-6575,6575,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.52,72,512193581,5445223259
+BKA-6561,6561,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.84,40,512180585,5445259946
+BKA-7280,7280,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.74,50,512180385,5445267943
+BKA-6576,6576,Gewöhnlicher Trompetenbaum,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.07,117,512190482,5445215463
+BKA-7282,7282,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.48,76,512191981,5445269442
+BKA-6579,6579,Stachellose Gleditschie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.81,43,512196380,5445208665
+BKA-7283,7283,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.54,70,512201577,5445271241
+BKA-7284,7284,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.46,78,512198279,5445262445
+BKA-6580,6580,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.87,37,512199779,5445206066
+BKA-6570,6570,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.39,85,512192941,5445257217
+BKA-6568,6568,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.71,53,512185983,5445251649
+BKA-6612,6612,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.62,62,512219072,5445242651
+BKA-6562,6562,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.65,59,512173388,5445246751
+BKA-7294,7294,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.16,108,512215792,5445262244
+BKA-6484,6484,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.87,37,512163491,5445242053
+BKA-6495,6495,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.42,82,512107112,5445214066
+BKA-7304,7304,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.67,57,512275250,5445266241
+BKA-7302,7302,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.51,73,512260555,5445266941
+BKA-7303,7303,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.71,53,512268652,5445266142
+BKA-6538,6538,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.83,41,512142889,5445098193
+BKA-6536,6536,Trauben-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.39,85,512133192,5445097814
+BKA-6535,6535,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.81,43,512133392,5445102511
+BKA-6528,6528,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.30,94,512128296,5445115406
+BKA-6527,6527,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.54,70,512124698,5445125102
+BKA-6521,6521,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.68,56,512123701,5445137796
+BKA-6597,6597,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.78,46,512179083,5445136394
+BKA-6505,6505,Gewöhnliche Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.32,92,512123204,5445179980
+BKA-6563,6563,Zierapfel - Golden Hornet ,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.90,34,512172888,5445241753
+BKA-6589,6589,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.89,35,512181184,5445174579
+BKA-6638,6638,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.46,78,512245364,5445224358
+BKA-6652,6652,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.70,54,512211275,5445194869
+BKA-6653,6653,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.72,52,512218673,5445195868
+BKA-6646,6646,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.54,70,512247664,5445210763
+BKA-6585,6585,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.76,48,512204078,5445192571
+BKA-6586,6586,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.74,50,512197379,5445188772
+BKA-6567,6567,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.58,66,512187483,5445243952
+BKA-7281,7281,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.85,39,512187583,5445263544
+BKA-6615,6615,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.53,71,512233568,5445229156
+BKA-7255,7255,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.73,51,512141899,5445269244
+BKA-7247,7247,Blut-Pflaume,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.74,50,512107812,5445267445
+BKA-7248,7248,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.25,99,512098266,5445269565
+BKA-7249,7249,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.58,66,512104673,5445270524
+BKA-7285,7285,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.54,70,512215742,5445271890
+BKA-7289,7289,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.77,47,512225868,5445272340
+BKA-7290,7290,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.66,58,512236574,5445273020
+BKA-7300,7300,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.60,64,512247960,5445272639
+BKA-7440,7440,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512771563,5445438382
+BKA-7332,7332,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.50,74,512763466,5445436083
+BKA-7324,7324,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.47,77,512743373,5445444080
+BKA-7320,7320,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512729979,5445428886
+BKA-7359,7359,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512724081,5445418191
+BKA-7370,7370,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512730279,5445407195
+BKA-14905,14905,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.68,56,513059237,5445601921
+BKA-64229,64229,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.89,35,513016657,5445587528
+BKA-64228,64228,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513021155,5445588827
+BKA-64227,64227,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513028151,5445591526
+BKA-64226,64226,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513032749,5445593325
+BKA-64225,64225,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513037747,5445594524
+BKA-64224,64224,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513042245,5445596423
+BKA-64223,64223,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513046843,5445597723
+BKA-64222,64222,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513051541,5445599622
+BKA-64242,64242,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,512992568,5445579832
+BKA-64243,64243,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,512988970,5445578433
+BKA-64244,64244,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,512985172,5445577134
+BKA-64245,64245,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,512981274,5445576034
+BKA-64246,64246,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,512988121,5445572175
+BKA-64247,64247,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,512983113,5445570456
+BKA-64248,64248,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,512978016,5445568887
+BKA-14900,14900,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.55,69,512973077,5445576434
+BKA-14899,14899,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.66,58,512970677,5445583931
+BKA-14877,14877,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.74,50,512965878,5445600124
+BKA-14875,14875,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.73,51,512963279,5445607022
+BKA-7167,7167,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,512860522,5445600322
+BKA-7163,7163,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.75,49,512870817,5445609020
+BKA-7162,7162,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.96,28,512877114,5445610620
+BKA-7158,7158,Ginkgobaum,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.02,22,512911500,5445610520
+BKA-14870,14870,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,512953983,5445608121
+BKA-52954,52954,Spitzahorn  `Royal Red`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.92,32,512934093,5445587029
+BKA-14974,14974,Rot-Buche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.84,40,512965680,5445578933
+BKA-14897,14897,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.64,60,512962082,5445573834
+BKA-14902,14902,Rotbrauner Berg Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512969031,5445566270
+BKA-14903,14903,Rotbrauner Berg Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512967681,5445561839
+BKA-64368,64368,Weißer Maulbeerbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.90,34,512959384,5445563538
+BKA-14895,14895,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,512953287,5445558340
+BKA-64366,64366,Amberbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,512940891,5445563038
+BKA-14938,14938,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.71,53,512934194,5445553142
+BKA-14937,14937,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,512933295,5445555241
+BKA-7226,7226,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.67,57,512906505,5445560838
+BKA-7225,7225,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.77,47,512898709,5445554640
+BKA-7245,7245,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,512903207,5445543044
+BKA-7229,7229,Rotbrauner Berg Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512912303,5445541145
+BKA-7230,7230,Rotbrauner Berg Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.63,61,512909704,5445538946
+BKA-57108,57108,Amberbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,512894411,5445527750
+BKA-7224,7224,Tulpenbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.74,50,512885114,5445533547
+BKA-7205,7205,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512883115,5445551240
+BKA-7204,7204,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512876117,5445561436
+BKA-7175,7175,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,512850827,5445590725
+BKA-7246,7246,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,512846929,5445581928
+BKA-7191,7191,Japanischer Schnurbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.72,52,512848608,5445571611
+BKA-7189,7189,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.59,65,512838733,5445573430
+BKA-7193,7193,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,512828915,5445579035
+BKA-7190,7190,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.58,66,512836334,5445569332
+BKA-64365,64365,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.82,42,512849818,5445563854
+BKA-7242,7242,Winter-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.85,39,512843601,5445561685
+BKA-7184,7184,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,512826084,5445562810
+BKA-7200,7200,Japanischer Schnurbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.74,50,512836135,5445556336
+BKA-7198,7198,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512827439,5445555436
+BKA-7207,7207,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.62,62,512845081,5445551898
+BKA-7208,7208,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512846580,5445547050
+BKA-7209,7209,Trauben-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,512842882,5445542672
+BKA-7221,7221,Speierling,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,512850529,5445533845
+BKA~BAUM-13640,85732,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512976605,5445386382
+BKA~BAUM-13636,85728,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512933064,5445398974
+BKA~BAUM-13635,85727,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512931911,5445398442
+BKA~BAUM-13629,85721,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512921979,5445394629
+BKA~BAUM-13631,85723,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512921181,5445394186
+BKA~BAUM-13630,85722,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512921447,5445394275
+BKA~BAUM-13628,85720,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512919407,5445391614
+BKA~BAUM-13641,85733,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512997179,5445389486
+BKA~BAUM-13639,85731,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512957096,5445389575
+BKA~BAUM-13638,85730,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512954524,5445395782
+BKA~BAUM-13637,85729,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512944415,5445395516
+BKA~BAUM-13634,85726,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512941932,5445370597
+BKA~BAUM-13633,85725,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512946454,5445367405
+BKA~BAUM-13632,85724,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512938562,5445381150
+BKA~BAUM-13627,85719,Eichenart,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512928364,5445374144
+BKA~BAUM-13626,85718,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512914530,5445349580
+BKA~BAUM-13625,85717,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512895730,5445361729
+BKA~BAUM-13624,85716,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512885887,5445368380
+BKA~BAUM-9550,78036,Blumen - Esche `Oblisk`,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.10,14,512518163,5445729730
+BKA~BAUM-8823,77207,Freemanns - Ahorn `Celzam`( Celebration),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.09,15,512988726,5445548352
+BKA~BAUM-8755,77138,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.07,17,512746254,5445382424
+BKA~BAUM-7232,75474,Blumen - Esche ` Anita `,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.06,18,512652948,5445736686
+BKA-14929,14929,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512971379,5445544546
+BKA-14975,14975,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.82,42,512979032,5445539446
+BKA-14953,14953,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,513006162,5445518755
+BKA-68695,68695,Silber-Weide `Liempde`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.01,23,513015538,5445515086
+BKA-68693,68693,Silber-Weide `Liempde`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.01,23,513009041,5445532889
+BKA-68694,68694,Silber-Weide `Liempde`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.01,23,513012129,5445524432
+BKA~BAUM-3018,71555,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Ansbacher Straße,01.01.04,20,512819938,5445605019
+BKA~BAUM-8330,76667,Blumen - Esche `Oblisk`,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.08,16,512500351,5445714777
+BKA~BAUM-5228,73522,Blumen-Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.03,21,512371267,5445703784
+BKA-67478,67478,Blumen-Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.00,24,512384292,5445692882
+BKA-7094,7094,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.69,55,512360599,5445715675
+BKA-52780,52780,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.92,32,512412384,5445676188
+BKA-7118,7118,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.70,54,512435576,5445683886
+BKA-7119,7119,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.82,42,512461966,5445694683
+BKA-7120,7120,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.86,38,512483258,5445701981
+BKA-66956,66956,Blumen-Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.99,25,512502850,5445708780
+BKA-7135,7135,Götterbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.70,54,512650598,5445741869
+BKA-52779,52779,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.96,28,512536869,5445681162
+BKA-7125,7125,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.85,39,512530742,5445678694
+BKA-7122,7122,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.78,46,512515545,5445709580
+BKA-7116,7116,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.74,50,512514445,5445721874
+BKA-7114,7114,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.70,54,512523840,5445742965
+BKA-63242,63242,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.92,32,512521244,5445699884
+BKA-7105,7105,gemischter Bestand,Heilbronn,Frankenbach,Frankenbach - Maihalde,Speyerer Straße,,,512380896,5445613813
+BKA-7138,7138,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Speyerer Straße,,,512478467,5445511955
+BKA-68793,68793,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.01,23,512740576,5445376507
+BKA-68794,68794,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.01,23,512772663,5445412193
+BKA-64240,64240,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Frankenstraße,01.01.89,35,512358656,5445676098
+BKA-7127,7127,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Frankenstraße,01.01.70,54,512532472,5445665369
+BKA-7126,7126,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Frankenstraße,01.01.76,48,512530112,5445670831
+BKA-64923,64923,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,513133076,5445551617
+BKA-64922,64922,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,513150129,5445551617
+BKA-64921,64921,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,513173389,5445557334
+BKA-64919,64919,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,513198198,5445568219
+BKA-64917,64917,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,513214620,5445586742
+BKA-64916,64916,Silber-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,513223936,5445602026
+BKA-64932,64932,Eingriffliger Weißdorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513056139,5445505888
+BKA~BAUM-3962,72452,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,512996468,5445546245
+BKA-64929,64929,Silber-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.96,28,513074431,5445534846
+BKA-64925,64925,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,513111275,5445548459
+BKA-68668,68668,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.01,23,513172289,5445569230
+BKA-68667,68667,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.01,23,513186782,5445607015
+BKA-68669,68669,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.01,23,513155396,5445587623
+BKA-64900,64900,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,513260150,5445604014
+BKA-64918,64918,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,513217269,5445576926
+BKA-64933,64933,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,513056339,5445541044
+BKA-7212,7212,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512838434,5445538843
+BKA-7211,7211,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512835636,5445534844
+BKA-7219,7219,Sitka-Fichte,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,512803914,5445517802
+BKA-7218,7218,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,512827240,5445522048
+BKA-64867,64867,Speierling,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513255144,5445728955
+BKA-64866,64866,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513257644,5445721259
+BKA-64835,64835,Kirsche - Napoleon Große Prinzessin,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513218764,5445736157
+BKA-64818,64818,Birne - Stuttgarter Geißhirtle,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.95,29,513203473,5445732262
+BKA-64834,64834,Mirabelle - Nancy,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513222062,5445727860
+BKA-64820,64820,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.95,29,513213567,5445727962
+BKA-64800,64800,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.93,31,513198476,5445723467
+BKA-64845,64845,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.92,32,513243953,5445686778
+BKA-64839,64839,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,513233556,5445717163
+BKA-64898,64898,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513289031,5445702470
+BKA-64882,64882,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.90,34,513278935,5445707966
+BKA-64825,64825,Apfel - Gartenmeister Simon,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.93,31,513224762,5445692976
+BKA-64893,64893,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513276733,5445740747
+BKA-64891,64891,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513271334,5445755040
+BKA-64879,64879,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.90,34,513280537,5445678681
+BKA-64899,64899,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.93,31,513296030,5445681281
+BKA-64910,64910,Birnenart,Heilbronn,Frankenbach,Frankenbach - Nord,Frankenbacher Weg,01.01.98,26,513288877,5445727470
+BKA~BAUM-12126,84237,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,512956679,5445644008
+BKA~BAUM-8821,77205,Fächer-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.09,15,512935912,5445777716
+BKA-67519,67519,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.00,24,512934679,5445745577
+BKA-67518,67518,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.00,24,512938248,5445748177
+BKA-14969,14969,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.84,40,512946973,5445747975
+BKA-14970,14970,Kaiser-Linde `Pallida`,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.84,40,512954570,5445748675
+BKA-14965,14965,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.84,40,512944373,5445756474
+BKA-14907,14907,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513062535,5445618115
+BKA-14887,14887,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.64,60,513050238,5445664597
+BKA-14889,14889,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,513042042,5445656901
+BKA-14890,14890,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.68,56,513036844,5445653702
+BKA-14856,14856,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.50,74,513031945,5445670296
+BKA-14886,14886,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513026748,5445654702
+BKA-14885,14885,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.71,53,513021051,5445648405
+BKA-14883,14883,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513016153,5445645206
+BKA-14857,14857,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.59,65,513007955,5445662100
+BKA-14882,14882,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.61,63,513007957,5445643907
+BKA-14881,14881,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.58,66,512998661,5445645007
+BKA-14880,14880,Blut-Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.57,67,512993463,5445638610
+BKA-14973,14973,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.84,40,512979468,5445651305
+BKA-14874,14874,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.74,50,512961379,5445613719
+BKA-14873,14873,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.67,57,512958380,5445619517
+BKA-66948,66948,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.99,25,512951381,5445639710
+BKA-7164,7164,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.75,49,512870217,5445613118
+BKA-7156,7156,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,512886410,5445622516
+BKA-7157,7157,Roter Fächer-Ahorn `Atropurpureum`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.95,29,512907502,5445612219
+BKA-64286,64286,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,512918956,5445628064
+BKA-64287,64287,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.92,32,512920115,5445632372
+BKA-64288,64288,Kultur-Birne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.00,24,512923514,5445634032
+BKA-64291,64291,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,512925593,5445630613
+BKA-64290,64290,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,512929401,5445632952
+BKA-64289,64289,Kultur-Birne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.00,24,512927492,5445636191
+BKA-14827,14827,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,512922593,5445642409
+BKA-14983,14983,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,512939993,5445640271
+BKA-14868,14868,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.56,68,512951383,5445623815
+BKA-14872,14872,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.54,70,512948485,5445614019
+BKA~BAUM-8012,76316,Berg - Ahorn `Erectum `,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.07,17,513243564,5445771612
+BKA~BAUM-8011,76315,Berg - Ahorn `Erectum `,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.07,17,513251886,5445774358
+BKA~BAUM-7980,76284,Säulen - Hainbuche `Franz Fontaine `,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.07,17,512985648,5445880501
+BKA~BAUM-7979,76283,Dreizahn - Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.07,17,513201801,5445884335
+BKA~BAUM-7231,75473,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.06,18,513067761,5445749356
+BKA~BAUM-7229,75471,Berg - Ahorn `Erectum `,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.06,18,513140879,5445738564
+BKA~BAUM-7225,75449,Spitzahorn - Eurostar,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.06,18,513178142,5445718983
+BKA-67455,67455,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.00,24,513073423,5445773754
+BKA~BAUM-6749,74933,Dreizahn - Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.05,19,513145997,5445869618
+BKA-57026,57026,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.90,34,513120607,5445794348
+BKA-14667,14667,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.70,54,513090317,5445778852
+BKA-14664,14664,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.61,63,513065526,5445780253
+BKA-14632,14632,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.61,63,513069025,5445786751
+BKA-14607,14607,Schwedische Mehlbeere,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.60,64,513076425,5445817545
+BKA-14605,14605,Schwedische Mehlbeere,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.65,59,513072927,5445827844
+BKA-14631,14631,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.61,63,513063727,5445788650
+BKA-14630,14630,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.61,63,513059128,5445785452
+BKA-14640,14640,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.60,64,513163788,5445802442
+BKA-67454,67454,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.00,24,513181879,5445808238
+BKA-14679,14679,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.70,54,513196671,5445813634
+BKA-66955,66955,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.99,25,513220159,5445838027
+BKA-14635,14635,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.60,64,513128305,5445871320
+BKA-57102,57102,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.90,34,513107925,5445857093
+BKA-66954,66954,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.99,25,513069233,5445861030
+BKA-14602,14602,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.67,57,513053643,5445871024
+BKA-14600,14600,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.60,64,513036954,5445881417
+BKA-14591,14591,Schwedische Mehlbeere,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.60,64,512945390,5445907423
+BKA-14589,14589,Schwedische Mehlbeere,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.60,64,512947791,5445913520
+BKA-14592,14592,Schwedische Mehlbeere,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.60,64,512969177,5445902320
+BKA-14593,14593,Schwedische Mehlbeere,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.60,64,512977371,5445894922
+BKA~BAUM-4929,73228,Dreizahn - Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.04,20,513111410,5445785850
+BKA-14639,14639,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.73,51,513139599,5445794447
+BKA-52778,52778,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.92,32,512968958,5445836956
+BKA~BAUM-4937,73232,Säulen - Hainbuche `Franz Fontaine `,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.04,20,512979962,5445866038
+BKA~BAUM-3990,72468,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.03,21,513211763,5445871215
+BKA~BAUM-3992,72469,Säulen - Hainbuche `Franz Fontaine `,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.03,21,513044948,5445876920
+BKA~BAUM-3993,72470,Säulen - Hainbuche `Franz Fontaine `,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.03,21,513011560,5445890018
+BKA~BAUM-3016,71554,Säulen - Hainbuche `Franz Fontaine `,Heilbronn,Frankenbach,Frankenbach - Nord,Pfaffenhofener Straße,01.01.02,22,513079228,5445855333
+BKA~BAUM-3012,71552,Dreizahn - Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.02,22,513215661,5445859220
+BKA~BAUM-4933,73230,Dreizahn - Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.04,20,513170084,5445877710
+BKA~BAUM-4935,73231,Säulen - Hainbuche `Franz Fontaine `,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.04,20,513020458,5445889116
+BKA~BAUM-5235,73529,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.04,20,513118510,5445860646
+BKA~BAUM-5236,73530,Dreizahn - Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.03,21,513219300,5445847130
+BKA-64881,64881,Apfel - Transparent von Croncels,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.00,24,513281235,5445699871
+BKA~BAUM-7652,76033,Apfel - Hauxapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.11,13,513278037,5445687178
+BKA-64906,64906,Birne - Williams Christ,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,513280830,5445751941
+BKA~BAUM-7650,76031,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.05,19,513291730,5445694974
+BKA-64885,64885,Kultur-Birne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.96,28,513271237,5445728854
+BKA-64884,64884,Birne - Bayrische Weinbirne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.97,27,513273236,5445723557
+BKA~BAUM-7651,76032,Apfel - Schweizer Glockenapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.05,19,513284134,5445691675
+BKA-64880,64880,Apfel - Sonnenwirtsapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.90,34,513291732,5445672484
+BKA-64877,64877,Apfel - Landsberger Renette,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513272239,5445703269
+BKA-64872,64872,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513259041,5445743247
+BKA-64856,64856,Birne - Gute Graue,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513246249,5445729855
+BKA-64850,64850,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.93,31,513242552,5445715064
+BKA-64831,64831,Zwetschge - Königin Victoria,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.95,29,513229059,5445706070
+BKA-64801,64801,Zwetschge - Graf Althans Reneclaude,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.90,34,513200734,5445716149
+BKA-64855,64855,Birne - Conference,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513243249,5445740850
+BKA-64864,64864,Apfel - Gewürzluike,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513264143,5445702170
+BKA-64897,64897,Apfel - Kardinal  Bea,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513286411,5445710954
+BKA-64894,64894,Kultur-Birne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513279032,5445733351
+BKA-64827,64827,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513229860,5445678063
+BKA-64821,64821,Apfel - Jakob Lebel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.87,37,513216765,5445716066
+BKA-64890,64890,Mirabelle - Nancy,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.93,31,513263138,5445754841
+BKA~BAUM-7653,76034,Apfel - Topaz,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.13,11,513261745,5445683879
+BKA-64858,64858,Portugiesische Birnenquitte,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513251148,5445714763
+BKA-64838,64838,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513231457,5445724160
+BKA-64852,64852,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513236557,5445731415
+BKA-64854,64854,Apfel - Frankenbacher Feldschützapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513240850,5445746947
+BKA-64836,64836,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.95,29,513225789,5445739663
+BKA-64819,64819,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.00,24,513211268,5445734459
+BKA-14837,14837,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513031345,5445678393
+BKA-14836,14836,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513020549,5445674495
+BKA-14835,14835,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513010154,5445670997
+BKA-14821,14821,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,512979866,5445675696
+BKA-64129,64129,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,512989741,5445678835
+BKA-14830,14830,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,512956078,5445655404
+BKA-14831,14831,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,512967073,5445658103
+BKA-14832,14832,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,512978368,5445661801
+BKA-14833,14833,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,512988463,5445664200
+BKA-14823,14823,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,512959875,5445668199
+BKA-7150,7150,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512908598,5445649506
+BKA-14829,14829,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.73,51,512945683,5445652205
+BKA-7144,7144,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.51,73,512844328,5445615516
+BKA-7145,7145,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.61,63,512851525,5445615917
+BKA-7146,7146,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512860121,5445622215
+BKA-7147,7147,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512868417,5445627314
+BKA-7148,7148,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512878212,5445633712
+BKA-7149,7149,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512898503,5445645308
+BKA-7151,7151,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,512917794,5445653605
+BKA-14826,14826,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,512928290,5445657903
+BKA-14825,14825,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,512937286,5445661202
+BKA-14822,14822,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,512969171,5445671498
+BKA~BAUM-6747,74932,Berg - Ahorn `Erectum `,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.05,19,513157196,5445743764
+BKA-64119,64119,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,513144601,5445725872
+BKA~BAUM-8326,76665,Spitzahorn - Eurostar,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.08,16,513094518,5445700682
+BKA-57106,57106,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,513070928,5445692586
+BKA~BAUM-7230,75472,Spitzahorn - Eurostar,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.06,18,513104815,5445703780
+BKA-57105,57105,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,513080024,5445695684
+BKA-14980,14980,Straßen-Akazie,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513087521,5445698083
+BKA-14834,14834,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,512998659,5445667299
+BKA-64135,64135,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.01,23,513157384,5445712165
+BKA-64130,64130,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513130786,5445707239
+BKA-64136,64136,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513141351,5445706958
+BKA-64148,64148,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513148498,5445696781
+BKA-64149,64149,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513133504,5445692384
+BKA-64150,64150,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513119729,5445686567
+BKA-64147,64147,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513162932,5445701708
+BKA-64146,64146,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513178745,5445707505
+BKA-64145,64145,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513193078,5445712472
+BKA~BAUM-3132,71627,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.02,22,513063532,5445668695
+BKA-64153,64153,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513092300,5445678121
+BKA-64139,64139,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513101916,5445694034
+BKA-64140,64140,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513089720,5445692985
+BKA-64151,64151,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513115711,5445680489
+BKA-64152,64152,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513100817,5445675392
+BKA-64154,64154,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513088322,5445671493
+BKA-64155,64155,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513075527,5445672693
+BKA-64142,64142,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513081024,5445686888
+BKA-64143,64143,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513068729,5445682789
+BKA-64144,64144,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513062332,5445680191
+BKA-64138,64138,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513111212,5445700382
+BKA-67384,67384,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.00,24,513166091,5445718772
+BKA-64131,64131,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513147999,5445712876
+BKA~BAUM-7226,75450,Spitzahorn - Eurostar,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.06,18,513190780,5445722968
+BKA~BAUM-7654,76035,Apfel - Goldparmäne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.13,11,513264544,5445675483
+BKA-64804,64804,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.92,32,513205521,5445702154
+BKA-64810,64810,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513221264,5445679563
+BKA-64847,64847,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.88,36,513252279,5445690846
+BKA-64883,64883,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,513276335,5445715462
+BKA-64876,64876,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.93,31,513268439,5445713863
+BKA-64823,64823,Apfel - Jakob Lebel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,513221263,5445704371
+BKA-64837,64837,Kirsche - Hedelfinger,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.88,36,513228258,5445734256
+BKA-64853,64853,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.92,32,513234254,5445742150
+BKA-64869,64869,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.93,31,513250546,5445743847
+BKA-64871,64871,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513256242,5445750944
+BKA-64887,64887,Apfel - Bönnigheimer Schnapapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513267937,5445740548
+BKA-64892,64892,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.88,36,513274034,5445748143
+BKA-64905,64905,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.88,36,513279130,5445757139
+BKA-64806,64806,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513210769,5445685321
+BKA-64868,64868,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.95,29,513251845,5445739350
+BKA-64862,64862,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.96,28,513269941,5445688677
+BKA-64846,64846,Birne - Mostbirne/Widbirne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,513254948,5445679281
+BKA-64861,64861,Apfel - Mauzen/Rh.Krummstiel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.92,32,513259146,5445691876
+BKA-64878,64878,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.97,27,513274438,5445697573
+BKA-64860,64860,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.97,27,513256746,5445699772
+BKA-64886,64886,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,513269437,5445736250
+BKA~BAUM-14719,86794,Blumen - Esche `Oblisk`,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,,,512634904,5445769658
+BKA~BAUM-11269,82566,Blumen - Esche `Oblisk`,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,,,512618509,5445770757
+BKA-14820,14820,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,513015850,5445688190
+BKA-14819,14819,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,513024747,5445691288
+BKA-14818,14818,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513038941,5445696285
+BKA-14817,14817,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513050436,5445700783
+BKA-14816,14816,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513061078,5445707857
+BKA-64112,64112,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513240779,5445754524
+BKA-64113,64113,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513233764,5445751996
+BKA-64111,64111,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513248725,5445757142
+BKA-64110,64110,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513256481,5445759660
+BKA-64109,64109,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513264247,5445762278
+BKA-14712,14712,Spitz-Ahorn,Heilbronn,Neckargartach,Neckargartach - West,Frankenbacher Straße,01.01.70,54,513275931,5445765635
+BKA-64114,64114,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513225998,5445749379
+BKA-64117,64117,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,513203473,5445741728
+BKA-64116,64116,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513211028,5445744185
+BKA-64115,64115,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.88,36,513218593,5445746472
+BKA-64118,64118,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.84,40,513195388,5445738921
+BKA-14961,14961,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,513158695,5445748262
+BKA-7143,7143,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.50,74,512837131,5445609818
+BKA-14663,14663,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.90,34,513047133,5445766058
+BKA-14806,14806,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.86,38,513055530,5445744265
+BKA-14805,14805,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.88,36,513049232,5445760960
+BKA-64749,64749,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.90,34,513061528,5445764558
+BKA-66951,66951,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.99,25,513075524,5445731069
+BKA-68810,68810,Säulen - Ulme `Columella`,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.01,23,513062930,5445717276
+BKA-68809,68809,Säulen - Ulme `Columella`,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.11,13,513067627,5445729370
+BKA~BAUM-4927,73227,Säulen - Ulme `Columella`,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.04,20,513069827,5445721174
+BKA~BAUM-8328,76666,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.08,16,513060130,5445728971
+BKA~BAUM-3986,72466,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.03,21,512978854,5445825159
+BKA~BAUM-3988,72467,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.03,21,512963960,5445833157
+BKA-7039,7039,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.60,64,512861410,5445791360
+BKA-7038,7038,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.60,64,512887696,5445799660
+BKA-63241,63241,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.92,32,512994022,5445806481
+BKA-67368,67368,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.00,24,512987652,5445809961
+BKA-67367,67367,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.00,24,512972258,5445819860
+BKA-57025,57025,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.97,27,512984621,5445821887
+BKA-14613,14613,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.86,38,512990446,5445818109
+BKA~BAUM-3982,72463,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.03,21,513033838,5445790852
+BKA~BAUM-3983,72464,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.03,21,513026940,5445795553
+BKA-64750,64750,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.90,34,513052831,5445751862
+BKA-14669,14669,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.84,40,513038136,5445777355
+BKA-63243,63243,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.92,32,513021142,5445789456
+BKA~BAUM-966,69726,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.00,24,512999549,5445802659
+BKA-64751,64751,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.88,36,513054030,5445784652
+BKA-14662,14662,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.86,38,513052331,5445778654
+BKA-63240,63240,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.92,32,513047033,5445782853
+BKA-67366,67366,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.00,24,513041335,5445786353
+BKA-68811,68811,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.01,23,512996321,5445814487
+BKA-68812,68812,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.89,35,513002405,5445810709
+BKA~BAUM-3985,72465,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.03,21,513008385,5445807195
+BKA-14811,14811,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.75,49,513080332,5445723660
+BKA-52776,52776,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.92,32,513071625,5445740665
+BKA-66953,66953,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.99,25,513064227,5445757960
+BKA~BAUM-5234,73528,Französischer Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.03,21,513007958,5445797196
+BKA-7142,7142,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.70,54,512761056,5445757665
+BKA-7040,7040,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.60,64,512837522,5445783361
+BKA-7041,7041,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.60,64,512809935,5445773962
+BKA-7042,7042,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.60,64,512782647,5445764963
+BKA-7128,7128,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.70,54,512555403,5445677564
+BKA-7129,7129,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.70,54,512576426,5445687490
+BKA-7130,7130,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.70,54,512599117,5445698585
+BKA-7131,7131,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.70,54,512618010,5445707682
+BKA-7132,7132,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.70,54,512642401,5445717978
+BKA-7133,7133,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.70,54,512666093,5445725976
+BKA-7139,7139,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.60,64,512689284,5445733973
+BKA-7140,7140,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.60,64,512706977,5445740171
+BKA-7141,7141,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Burgundenstraße,01.01.60,64,512732667,5445748768
+BKA-64458,64458,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.72,52,512715967,5445335335
+BKA-7413,7413,Kirsch-Pflaume,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.79,45,512807550,5445335023
+BKA-7411,7411,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.79,45,512798053,5445323128
+BKA~BAUM-13570,85662,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512859803,5445310291
+BKA-7136,7136,Götterbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.70,54,512643201,5445758263
+BKA-7113,7113,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.70,54,512530237,5445757959
+BKA-7036,7036,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.54,70,512545133,5445772354
+BKA-7030,7030,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.70,54,512534636,5445781150
+BKA~BAUM-3995,72471,Chinesischer Surenbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.03,21,512565827,5445771755
+BKA-7427,7427,Straßen-Akazie,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.57,67,512779759,5445303936
+BKA-7428,7428,Straßen-Akazie,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.55,69,512783903,5445299387
+BKA~BAUM-13623,85715,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512893868,5445328298
+BKA~BAUM-13622,85714,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512882606,5445331224
+BKA~BAUM-13621,85713,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512870457,5445320583
+BKA~BAUM-13571,85663,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,,,512882775,5445309646
+BKA~BAUM-12124,84235,Scharlach-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,,,512939294,5445908824
+BKA~BAUM-11267,82560,Blumen - Esche `Oblisk`,Heilbronn,Frankenbach,Frankenbach - Nördliches Feld,Bamberger Straße,,,512534237,5445796244
+BKA~BAUM-9551,78037,Säulen - Heinbuche `Lucas`,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.10,14,512998298,5445887930
+BKA~BAUM-9549,78035,Blumen - Esche `Oblisk`,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.10,14,512533738,5445770424
+BKA~BAUM-8781,77164,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.59,65,512705737,5445303202
+BKA~BAUM-8780,77163,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedwiesen,01.01.51,73,512712574,5445298678
+BKA-7407,7407,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512733679,5445311935
+BKA-7403,7403,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512705391,5445327329
+BKA-7409,7409,Walnuß,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512747872,5445299339
+BKA-7408,7408,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512736177,5445305337
+BKA-7406,7406,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512726982,5445312135
+BKA-7405,7405,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512719785,5445320331
+BKA-7404,7404,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512707790,5445322930
+BKA-7402,7402,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,512701693,5445326929
+BKA~BAUM-14721,86796,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Neuwiesenstraße,,,512159486,5445457578
+BKA~BAUM-8600,76952,Parotie - Vanessa,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihaldenstraße,01.01.08,16,512154152,5445712723
+BKA-64794,64794,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihaldenstraße,,,512194701,5445716115
+BKA-64792,64792,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihaldenstraße,01.01.81,43,512194771,5445722972
+BKA-64791,64791,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihaldenstraße,01.01.80,44,512197369,5445719873
+BKA-64790,64790,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihaldenstraße,01.01.80,44,512201967,5445720173
+BKA-64796,64796,Hausapfel,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihaldenstraße,01.01.80,44,512207804,5445714496
+BKA-7103,7103,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Speyerer Straße,01.01.57,67,512338673,5445675651
+BKA~BAUM-6751,74934,Blumen - Esche ` Anita `,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.05,19,512601015,5445776954
+BKA~BAUM-6167,74494,Geweihbaum,Heilbronn,Frankenbach,Frankenbach - Nord,Bamberger Straße,01.01.05,19,512545923,5445780331
+BKA-63239,63239,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.92,32,512358203,5445750561
+BKA-7016,7016,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.57,67,512364102,5445767554
+BKA~BAUM-6754,74937,Blumen - Esche ` Anita `,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.05,19,512358301,5445730269
+BKA-7102,7102,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Rosenheimer Straße,01.01.60,64,512240877,5445704330
+BKA-64793,64793,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihaldenstraße,01.01.60,64,512185035,5445719443
+BKA-66957,66957,Zierkirsche - Fukubana,Heilbronn,Frankenbach,Frankenbach - Maihalde,Münchener Straße,01.01.99,25,512134797,5445617514
+BKA-64723,64723,Winterlinde `Greenspire`,Heilbronn,Frankenbach,Frankenbach - Ost,Kaiserslauterner Straße,01.01.98,26,513104813,5445327429
+BKA-7265,7265,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,01.01.20,104,512104111,5445407694
+BKA-7264,7264,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,01.01.30,94,512097114,5445410193
+BKA-7056,7056,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512108812,5445702180
+BKA-7053,7053,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512102115,5445702180
+BKA-7052,7052,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512099316,5445703379
+BKA-7087,7087,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,01.01.60,64,512080622,5445580728
+BKA-7088,7088,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,01.01.79,45,512077613,5445578259
+BKA-7085,7085,Gewöhnlicher Trompetenbaum,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,01.01.68,56,512089019,5445593623
+BKA-7084,7084,Tulpenbaum,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,01.01.92,32,512095616,5445604819
+BKA-7083,7083,Tulpenbaum,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,01.01.87,37,512088519,5445605018
+BKA-7082,7082,Tulpenbaum,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,01.01.90,34,512080723,5445605118
+BKA-64724,64724,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,01.01.75,49,512848129,5445270144
+BKA-14956,14956,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513114911,5445730070
+BKA-14955,14955,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513106214,5445726971
+BKA-14813,14813,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513097416,5445724472
+BKA-14960,14960,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513149499,5445741066
+BKA-14962,14962,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513165292,5445746362
+BKA-14984,14984,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513174188,5445749160
+BKA-14985,14985,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513183983,5445752358
+BKA-14986,14986,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513191579,5445755155
+BKA-14987,14987,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513200173,5445757752
+BKA-14704,14704,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513225757,5445766142
+BKA-14705,14705,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.65,59,513234551,5445769339
+BKA-14708,14708,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513260737,5445777131
+BKA-64120,64120,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,513136104,5445722973
+BKA-68807,68807,Spitz-Ahorn `Emerald Queen`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.01,23,513110612,5445705879
+BKA-14840,14840,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513061832,5445689387
+BKA-14839,14839,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513051636,5445685289
+BKA-14838,14838,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.70,54,513041441,5445681291
+BKA~BAUM-12123,84234,Dreilappiger Apfel,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,,,513074926,5445822544
+BKA~BAUM-9638,78124,Säulen - Heinbuche `Lucas`,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,01.01.10,14,512978092,5445853094
+BKA~BAUM-14843,86918,Bergahorn 'Bruchem',Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,513123508,5445732769
+BKA~BAUM-14842,86917,Bergahorn 'Bruchem',Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,513217262,5445763445
+BKA~BAUM-14841,86916,Bergahorn 'Bruchem',Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,513101416,5445710678
+BKA~BAUM-12127,84238,Berg - Ahorn `Erectum `,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,513132406,5445735269
+BKA~BAUM-12122,84233,Spitzahorn `Allershausen`,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,,,513122788,5445700611
+BKA~BAUM-8652,77022,Birne - Gräfin von Paris,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.14,10,513293992,5445687699
+BKA~BAUM-8653,77023,Apfel - Sonnenwirtsapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.14,10,513288671,5445678207
+BKA~BAUM-9873,78477,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.14,10,513246654,5445705486
+BKA~BAUM-11266,82557,Kugel-Feldahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Teutonenstraße,,,513069925,5445782352
+BKA~BAUM-9872,78474,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.14,10,513238660,5445704201
+BKA~BAUM-9871,78471,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.14,10,513235706,5445710943
+BKA~BAUM-9870,78468,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.14,10,513226634,5445713341
+BKA~BAUM-9869,78465,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.14,10,513222880,5445698635
+BKA~BAUM-8655,77025,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.14,10,513291137,5445719931
+BKA~BAUM-8654,77024,Birnenart,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.14,10,513272905,5445677328
+BKA~BAUM-8649,77019,Apfel - Reglindis,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.10,14,513266840,5445720014
+BKA~BAUM-7655,76036,Birne - Stuttgarter Geißhirtle,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.13,11,513196196,5445729863
+BKA~BAUM-7228,75470,Berg - Ahorn `Erectum `,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.06,18,513114676,5445715226
+BKA~BAUM-8013,76317,Berg - Ahorn `Erectum `,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.07,17,513209115,5445760435
+BKA~BAUM-8822,77206,Silber-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.09,15,513210772,5445614827
+BKA~BAUM-14720,86795,Keithsform - Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,512076127,5445667493
+BKA~BAUM-13703,85794,Tamariskenart,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,,,512081775,5445544772
+BKA~BAUM-13701,85792,Kiefernart,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,,,512085343,5445562236
+BKA~BAUM-13700,85791,Reinbestand (Nadelbaum),Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,,,512089436,5445566975
+BKA~BAUM-13702,85793,Eibenart,Heilbronn,Frankenbach,Frankenbach - Maihalde,Im Viehtrieb,,,512075433,5445548449
+BKA~BAUM-13289,85382,Fichtenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Sandacker,,,511178124,5445362280
+BKA~BAUM-13290,85383,Fichtenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Sandacker,,,511175337,5445359735
+BKA~BAUM-2125,70772,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511487867,5445441686
+BKA~BAUM-9061,77466,Feld-Ulme,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511290770,5445823260
+BKA~BAUM-7649,76030,Zwetschge - Bühler Frühzwetschge,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511777883,5445641935
+BKA~BAUM-7648,76029,Zwetschge - Wangenheimer Frühzwetschge,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511777118,5445638737
+BKA~BAUM-7647,76028,Birne - Stuttgarter Geißhirtle,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511779620,5445625321
+BKA~BAUM-7622,76003,Apfel - Goldparmäne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511777117,5445620851
+BKA~BAUM-7623,76004,Zwetschge - Bühler Frühzwetschge,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511774169,5445621387
+BKA~BAUM-7624,76005,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511772293,5445620047
+BKA~BAUM-7628,76009,Birne - Stuttgarter Geißhirtle,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511773452,5445598579
+BKA~BAUM-7626,76007,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511772942,5445602513
+BKA~BAUM-7643,76024,Birne - Palmischbirne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511766126,5445593038
+BKA~BAUM-7642,76023,Birne - Gelbmöstler,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511764697,5445586875
+BKA~BAUM-7646,76027,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511775582,5445583672
+BKA~BAUM-7645,76026,Birne - Stuttgarter Geißhirtle,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511788723,5445582698
+BKA~BAUM-7637,76018,Zwetschge - Wangenheimer Frühzwetschge,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511799622,5445582496
+BKA~BAUM-7636,76017,Apfel - Goldparmäne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511802125,5445594820
+BKA~BAUM-7631,76012,Kirsche - Rote Meckerheimer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511791853,5445602774
+BKA~BAUM-7630,76011,Kirsche - Hedelfinger,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511778722,5445602151
+BKA~BAUM-7613,75994,Kirsche - Hedelfinger,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511781944,5445647111
+BKA~BAUM-7632,76013,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Knollenberg,01.01.06,18,511795785,5445609647
+BKA~BAUM-7644,76025,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511793643,5445626083
+BKA~BAUM-7615,75996,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511793823,5445633801
+BKA~BAUM-7614,75995,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511786946,5445641841
+BKA~BAUM-7627,76008,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511769164,5445600808
+BKA~BAUM-7641,76022,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511769431,5445585446
+BKA~BAUM-7640,76021,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511780060,5445582230
+BKA~BAUM-7639,76020,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511792833,5445579192
+BKA~BAUM-7638,76019,Hauszwetschge,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511798550,5445578478
+BKA~BAUM-7635,76016,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511791674,5445594374
+BKA~BAUM-7634,76015,Apfel - Gewürzluike,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511796051,5445598125
+BKA~BAUM-7633,76014,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511797123,5445601697
+BKA~BAUM-7629,76010,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511778275,5445597234
+BKA~BAUM-7625,76006,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511772113,5445608578
+BKA~BAUM-7621,76002,Trauben-Kirsche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Maihalde,01.01.06,18,511776667,5445629966
+BKA~BAUM-7620,76001,Silber-Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511782745,5445628442
+BKA~BAUM-7619,76000,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511783817,5445623887
+BKA~BAUM-7618,75999,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511782208,5445620225
+BKA~BAUM-7617,75998,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511788014,5445615401
+BKA~BAUM-7616,75997,Zirkirsche Accolade,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Regensburger Straße,01.01.06,18,511790607,5445630764
+BKA~BAUM-1732,70387,Apfel - Gewürzluike,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511934190,5445773052
+BKA-7400,7400,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512710289,5445342022
+BKA-7401,7401,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512714487,5445347020
+BKA-7399,7399,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512719685,5445353117
+BKA-7398,7398,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.71,53,512724983,5445358715
+BKA-7397,7397,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512730181,5445364712
+BKA-7396,7396,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512735478,5445370810
+BKA-7393,7393,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512751571,5445388502
+BKA-7392,7392,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512756569,5445394200
+BKA-7391,7391,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512762067,5445400497
+BKA-7390,7390,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512767365,5445406395
+BKA-7388,7388,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512777961,5445417790
+BKA-7387,7387,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512783559,5445423688
+BKA-7336,7336,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.72,52,512795354,5445435183
+BKA-7337,7337,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.78,46,512801552,5445441281
+BKA-7338,7338,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.72,52,512807649,5445447379
+BKA-7340,7340,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.77,47,512820045,5445459874
+BKA-7342,7342,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512832439,5445471969
+BKA-7344,7344,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512844434,5445484065
+BKA-7346,7346,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.70,54,512856928,5445496260
+BKA-14932,14932,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512955885,5445546445
+BKA-14928,14928,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512966881,5445550943
+BKA-64157,64157,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513075027,5445663597
+BKA-64158,64158,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513077876,5445658079
+BKA-64160,64160,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513081575,5445646644
+BKA-64161,64161,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513084114,5445639396
+BKA-64162,64162,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513085894,5445634888
+BKA-14908,14908,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,513064733,5445632209
+BKA-64174,64174,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513100018,5445630839
+BKA-64175,64175,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513101778,5445624851
+BKA-64187,64187,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513170269,5445638743
+BKA-64188,64188,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513174947,5445640302
+BKA-64189,64189,Purpur - Erle,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513179805,5445642031
+BKA-64190,64190,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513198676,5445649098
+BKA-64191,64191,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513203574,5445650297
+BKA-64192,64192,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513208272,5445652096
+BKA-64193,64193,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513213170,5445653695
+BKA-64194,64194,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513217967,5445654994
+BKA-64206,64206,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513220267,5445648197
+BKA-64207,64207,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513213370,5445646398
+BKA-64208,64208,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513206173,5445644499
+BKA-64209,64209,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513198576,5445642200
+BKA-64211,64211,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513184183,5445636703
+BKA-64212,64212,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513177186,5445634904
+BKA-64210,64210,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513191480,5445639302
+BKA-64213,64213,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513169589,5445631906
+BKA-64214,64214,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513162992,5445629707
+BKA-64215,64215,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513155495,5445627308
+BKA-64216,64216,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513148398,5445625009
+BKA-64218,64218,Birken-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.89,35,513117874,5445621267
+BKA-64178,64178,Birken-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513113003,5445619932
+BKA-64220,64220,Sumpf-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.89,35,513110154,5445614105
+BKA-64177,64177,Birken-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513108785,5445618353
+BKA~BAUM-9547,78033,Birken-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.10,14,513104474,5445617081
+BKA~BAUM-3975,72459,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513082114,5445604011
+BKA~BAUM-3973,72458,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513077240,5445602256
+BKA~BAUM-3971,72457,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513075606,5445607069
+BKA~BAUM-3970,72456,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513073789,5445611731
+BKA~BAUM-3968,72455,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513071943,5445616544
+BKA~BAUM-3966,72454,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513077270,5445618300
+BKA~BAUM-3964,72453,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513081871,5445619723
+BKA~BAUM-3980,72462,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513083354,5445614758
+BKA-14979,14979,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.82,42,512974180,5445592730
+BKA~BAUM-3979,72461,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513084898,5445609763
+BKA~BAUM-3977,72460,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.03,21,513086684,5445605464
+BKA-64250,64250,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,512998657,5445560619
+BKA-64251,64251,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,513022825,5445570374
+BKA-64252,64252,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.89,35,513033120,5445569384
+BKA-64253,64253,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.89,35,513037148,5445569634
+BKA-64254,64254,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.89,35,513060137,5445584228
+BKA-64255,64255,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513068264,5445580149
+BKA-64277,64277,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513072751,5445584837
+BKA-64256,64256,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.86,38,513124608,5445602509
+BKA-64278,64278,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513088425,5445575530
+BKA-14916,14916,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,513047344,5445559337
+BKA-14917,14917,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,513042946,5445557138
+BKA-14918,14918,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.72,52,513040347,5445554739
+BKA-14919,14919,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.62,62,513036349,5445553940
+BKA-14920,14920,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.62,62,513033350,5445552041
+BKA-14921,14921,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.81,43,513024054,5445547843
+BKA-14922,14922,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,513014659,5445546944
+BKA-14976,14976,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.82,42,512983463,5445544484
+BKA-64281,64281,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513137214,5445584155
+BKA-64280,64280,"Zitter-Pappel, Espe",Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513168520,5445611234
+BKA-64201,64201,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513246853,5445663689
+BKA-64200,64200,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513243355,5445662589
+BKA-64199,64199,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513239757,5445661190
+BKA-64198,64198,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513235759,5445660190
+BKA-64197,64197,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513231961,5445658891
+BKA-64196,64196,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513228262,5445657592
+BKA-64195,64195,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.80,44,513224064,5445656193
+BKA-64205,64205,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513228363,5445651395
+BKA-64204,64204,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513237358,5445654493
+BKA-64203,64203,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513252551,5445659291
+BKA-64202,64202,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.80,44,513273641,5445665887
+BKA-7213,7213,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.60,64,512843632,5445550039
+BKA-14981,14981,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Würzburger Straße,01.01.90,34,512958279,5445634911
+BKA-14891,14891,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.67,57,512968380,5445590430
+BKA-64909,64909,Birne - Williams Christ,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513286329,5445735549
+BKA-64875,64875,Apfel - Weißer Winterkalvill,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513264021,5445726836
+BKA-64808,64808,Apfel - Trenkle Sämling,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.93,31,513215727,5445672156
+BKA-64873,64873,Apfel - Taffetapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513261141,5445736950
+BKA-64844,64844,Birne - Schweizer Wasserbirne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,513240904,5445697093
+BKA-64865,64865,Apfel - Rote Sternrenette,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.92,32,513260243,5445714463
+BKA-64814,64814,Birne - Pastorenbirne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.95,29,513212098,5445707191
+BKA-64809,64809,Pflaume - Oullins,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.94,30,513223704,5445672136
+BKA-64833,64833,Mirabelle - Nancy,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513223961,5445721263
+BKA-64870,64870,Mirabelle - Nancy,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513247746,5445749645
+BKA-64863,64863,Apfel - Mauzen/Rh.Krummstiel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513266442,5445694774
+BKA-64816,64816,Apfel - Mauzen/Rh.Krummstiel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513208390,5445717517
+BKA-64807,64807,Apfel - Linsenhöfer,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513212858,5445679004
+BKA-64828,64828,Apfel - Landsberger Renette,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.88,36,513236237,5445684789
+BKA-64911,64911,Apfel - Jakob Fischer,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.87,37,513294288,5445713194
+BKA-64830,64830,Birne - Grünmöstler,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513231258,5445699572
+BKA-64829,64829,Zwetschge - Große grüne Reneclaude,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.86,38,513234497,5445690007
+BKA-64908,64908,Birne - Gräfin von Paris,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.95,29,513284129,5445743045
+BKA-64895,64895,Apfel - Gewürzluike,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.90,34,513281632,5445725456
+BKA-64817,64817,Birne - Stuttgarter Geißhirtle,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.00,24,513206271,5445724964
+BKA-64813,64813,Apfel - Danzinger Kant,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.96,28,513213717,5445702543
+BKA-64907,64907,Apfel - Champanger Renette,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513282129,5445748143
+BKA-64896,64896,Birne - Champanger Bratbirne,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513283932,5445718060
+BKA-64812,64812,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.04,20,513216396,5445694876
+BKA-64811,64811,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.04,20,513219065,5445686530
+BKA-64826,64826,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.92,32,513227651,5445684330
+BKA-64857,64857,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513248648,5445722159
+BKA-64848,64848,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.98,26,513248650,5445697273
+BKA-64805,64805,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.89,35,513208040,5445692948
+BKA-64859,64859,Apfel - Brener Rosenapfel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.96,28,513253847,5445708267
+BKA-7415,7415,Kanadische Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.55,69,512830541,5445343020
+BKA-7416,7416,Kanadische Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.55,69,512835839,5445349718
+BKA-7417,7417,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.71,53,512836739,5445360014
+BKA-7358,7358,Gemeine Esche `Westhof´s Glorie`,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.68,56,512905210,5445433487
+BKA-7356,7356,Großblatt-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.55,69,512912106,5445442883
+BKA-15209,15209,Pyramiden-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.71,53,512936894,5445442884
+BKA-14954,14954,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,01.01.65,59,512943885,5445423330
+BKA-15213,15213,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Ost,Dörnle,01.01.70,54,512949100,5445423330
+BKA-64931,64931,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,513050340,5445488665
+BKA-64928,64928,Silber-Weide,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.95,29,513095102,5445509776
+BKA-64930,64930,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,,,513121512,5445512953
+BKA-64926,64926,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.91,33,513111985,5445526298
+BKA~BAUM-13542,85634,Reinbestand (Obstbaum),Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,,,512162246,5445319845
+BKA~BAUM-13540,85632,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,,,512144520,5445380799
+BKA~BAUM-9767,78255,Schwarznuß,Heilbronn,Frankenbach,Frankenbach - Maihalde,Alte Mühle,01.01.10,14,512143486,5445395968
+BKA~BAUM-2136,70783,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511505659,5445451781
+BKA-68827,68827,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Am Rotbach,,,512183681,5445369005
+BKA~BAUM-14248,86330,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511510709,5444357982
+BKA~BAUM-14249,86331,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511509380,5444357267
+BKA~BAUM-14285,86366,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511574172,5444458547
+BKA~BAUM-14284,86365,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511578159,5444462956
+BKA~BAUM-14283,86364,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511580383,5444466330
+BKA~BAUM-14281,86362,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511607406,5444487286
+BKA~BAUM-14277,86358,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Süd,Pfauenrain,,,511668890,5444521129
+BKA-7062,7062,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.70,54,512106313,5445687885
+BKA-7266,7266,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,,,512111008,5445405395
+BKA~BAUM-14991,87065,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,511930550,5445699900
+BKA~BAUM-14992,87066,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,511925390,5445688760
+BKA~BAUM-14990,87064,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,511920480,5445676900
+BKA~BAUM-14989,87063,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,511920150,5445667310
+BKA~BAUM-14988,87062,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,511920810,5445659380
+BKA~BAUM-14985,87059,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,511922450,5445649170
+BKA~BAUM-14986,87060,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,511924210,5445638810
+BKA~BAUM-14987,87061,Nelkenkirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,511925940,5445631860
+BKA~BAUM-10163,79308,Birne - Große Rommelter,Heilbronn,Frankenbach,Frankenbach - Maihalde,Münchener Straße,,,511929060,5445589190
+BKA~BAUM-10162,79305,Birne - Mostbirne/Widbirne,Heilbronn,Frankenbach,Frankenbach - Maihalde,Münchener Straße,,,511929060,5445596130
+BKA~BAUM-10161,79302,Schneider`s späte Knorpelkirche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Münchener Straße,,,511933240,5445602170
+BKA~BAUM-10160,79299,Birne - Fellbacher Mostbirne,Heilbronn,Frankenbach,Frankenbach - Maihalde,Münchener Straße,,,511925260,5445602240
+BKA~BAUM-15108,87178,Rottriebiger Kolchischer-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,512085420,5445684090
+BKA~BAUM-1741,70393,Apfel - Jakob Fischer,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511842288,5445774359
+BKA~BAUM-1745,70397,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511854392,5445775969
+BKA~BAUM-1746,70398,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511848521,5445765749
+BKA~BAUM-1742,70394,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511837162,5445763820
+BKA~BAUM-1747,70399,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511843457,5445755407
+BKA~BAUM-1743,70395,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511831678,5445753242
+BKA~BAUM-1752,70403,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511847997,5445730601
+BKA~BAUM-1751,70402,Apfel - Frankenbacher Feldschützapfel,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511832507,5445733339
+BKA~BAUM-1748,70400,Apfel - Frankenbacher Feldschützapfel,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511837855,5445744301
+BKA~BAUM-1739,70392,Birne - Pastorenbirne,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511959679,5445767255
+BKA~BAUM-1736,70390,Birne - Pastorenbirne,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511964077,5445772153
+BKA~BAUM-1738,70391,Birne - Gute Graue,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511948184,5445767655
+BKA~BAUM-1735,70389,Birne - Gute Graue,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511954381,5445772453
+BKA~BAUM-1733,70388,Apfel - Gewürzluike,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511944186,5445772753
+BKA~BAUM-1731,70386,Apfel - Jakob Lebel,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511925694,5445773252
+BKA~BAUM-1730,70385,Apfel - Jakob Lebel,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511915999,5445773652
+BKA~BAUM-14262,86344,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511896248,5444571318
+BKA~BAUM-14263,86345,Trauben-Kirsche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511903857,5444594873
+BKA~BAUM-14264,86346,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511913672,5444597599
+BKA~BAUM-14265,86347,gemischter Bestand,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511924510,5444598758
+BKA~BAUM-14983,87057,Eschenart,Heilbronn,Frankenbach,Frankenbach - Maihalde,Augsburger Straße,,,511840820,5445692090
+BKA~BAUM-14993,87067,Blumen - Esche `Oblisk`,Heilbronn,Frankenbach,Frankenbach - Maihalde,Passauer Straße,,,511883670,5445747120
+BKA~BAUM-14984,87058,Blumen - Esche `Oblisk`,Heilbronn,Frankenbach,Frankenbach - Maihalde,Regensburger Straße,,,511830870,5445625870
+BKA~BAUM-1763,70411,Apfel - Jakob Fischer,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511790681,5445649408
+BKA~BAUM-1761,70410,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511814190,5445662498
+BKA~BAUM-1760,70409,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511804581,5445664197
+BKA~BAUM-1759,70408,Walnuß,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511794034,5445666002
+BKA~BAUM-1758,70407,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,,,511800466,5445685424
+BKA~BAUM-1757,70406,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511803636,5445696304
+BKA~BAUM-1756,70405,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511807814,5445708416
+BKA~BAUM-1754,70404,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511812423,5445720061
+BKA~BAUM-1750,70401,Apfel - Frankenbacher Feldschützapfel,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511817688,5445730394
+BKA~BAUM-1744,70396,Apfel - Boskoop,Heilbronn,Frankenbach,Frankenbach - Maihalde,Maihalde,01.01.01,23,511826587,5445741577
+BKA~BAUM-2137,70784,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511514655,5445452281
+BKA~BAUM-14246,86328,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511523694,5444371939
+BKA~BAUM-14245,86327,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511524869,5444372041
+BKA~BAUM-14242,86324,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511573554,5444407883
+BKA~BAUM-14243,86325,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511550015,5444392615
+BKA~BAUM-14244,86326,Weidenart,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511529675,5444376386
+BKA~BAUM-14247,86329,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511513776,5444364679
+BKA~BAUM-14255,86337,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,<0812100082705>,,,511773063,5444482896
+BKA~BAUM-14256,86338,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Süd,<0812100082705>,,,511790542,5444495480
+BKA~BAUM-14257,86339,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,<0812100082705>,,,511808486,5444507634
+BKA~BAUM-14258,86340,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,<0812100082705>,,,511822442,5444517718
+BKA~BAUM-14259,86341,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511824167,5444527648
+BKA~BAUM-14274,86356,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511824338,5444533276
+BKA~BAUM-14273,86355,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511819490,5444533657
+BKA~BAUM-14272,86354,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511832093,5444532809
+BKA~BAUM-14271,86353,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511835970,5444536565
+BKA~BAUM-14260,86342,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511838009,5444523584
+BKA~BAUM-14261,86343,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511843453,5444524849
+BKA~BAUM-14270,86352,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511973677,5444544424
+BKA~BAUM-14266,86348,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Leintalstraße,,,511954365,5444602098
+BKA~BAUM-13543,85635,Silber-Weide,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heuwinkel,,,511442264,5444469371
+BKA~BAUM-13706,85796,Reinbestand (Obstbaum),Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511487116,5445434856
+BKA~BAUM-13707,85797,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511460012,5445434031
+BKA~BAUM-9830,78339,Kultur-Birne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Obere Neuwiesen,01.01.13,11,511300472,5445537351
+BKA~BAUM-9831,78340,Birne - Grüne Jagdbirne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Obere Neuwiesen,01.01.13,11,511290321,5445533995
+BKA~BAUM-9832,78341,Speierling,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Obere Neuwiesen,01.01.14,10,511295082,5445541621
+BKA~BAUM-9818,78307,Birne - Schweizer Wasserbirne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Obere Neuwiesen,01.01.10,14,511287673,5445543809
+BKA~BAUM-9819,78308,Birne - Oberöstereichische Weinbirne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Obere Neuwiesen,01.01.10,14,511296651,5445547046
+BKA~BAUM-13248,85342,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511299727,5445480657
+BKA~BAUM-13249,85343,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511296698,5445467545
+BKA~BAUM-13250,85344,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511304750,5445439211
+BKA~BAUM-13251,85345,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511284774,5445474446
+BKA~BAUM-13252,85346,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511279185,5445472593
+BKA~BAUM-13253,85347,Sal-Weide,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511269067,5445463340
+BKA~BAUM-13254,85348,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511262183,5445470088
+BKA~BAUM-13255,85349,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511256389,5445466885
+BKA~BAUM-13256,85350,Weidenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511264841,5445427419
+BKA~BAUM-13257,85351,Erlenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511252026,5445459251
+BKA~BAUM-13258,85352,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511251345,5445463749
+BKA~BAUM-13259,85353,Fichtenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511267227,5445420671
+BKA~BAUM-13260,85354,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511258570,5445417604
+BKA~BAUM-13261,85355,Birkenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511245687,5445410583
+BKA~BAUM-13262,85356,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511230487,5445449504
+BKA~BAUM-13263,85357,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511241121,5445426192
+BKA~BAUM-13264,85358,Ahornart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511245483,5445424488
+BKA~BAUM-13265,85359,Maulbeerbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511221694,5445451548
+BKA~BAUM-13266,85360,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511226193,5445446913
+BKA~BAUM-13267,85361,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511219104,5445441120
+BKA~BAUM-13268,85362,Reinbestand (Nadelbaum),Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511231919,5445422239
+BKA~BAUM-13269,85363,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511232396,5445403222
+BKA~BAUM-13270,85364,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511203177,5445431636
+BKA~BAUM-13272,85365,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511199815,5445430745
+BKA~BAUM-13273,85366,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511199330,5445430381
+BKA~BAUM-13274,85367,Schwarz- oder Roterle,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511196179,5445426746
+BKA~BAUM-13275,85368,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511191453,5445431351
+BKA~BAUM-13276,85369,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511191211,5445431835
+BKA~BAUM-13277,85370,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511197391,5445399724
+BKA~BAUM-13278,85371,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511214598,5445398148
+BKA~BAUM-13279,85372,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511173398,5445416567
+BKA~BAUM-13280,85373,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511166855,5445409902
+BKA~BAUM-13281,85374,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511172186,5445390029
+BKA~BAUM-13282,85375,Robinia - Scheinakazie,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511152071,5445397906
+BKA~BAUM-13283,85376,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511141286,5445392211
+BKA~BAUM-13284,85377,Fichtenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511128926,5445379366
+BKA~BAUM-13285,85378,Weidenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511117778,5445375852
+BKA~BAUM-13286,85379,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511115355,5445364946
+BKA~BAUM-13287,85380,Kirschenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511147466,5445345921
+BKA~BAUM-13288,85381,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511139832,5445339741
+BKA~BAUM-13245,85339,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511345406,5445462743
+BKA~BAUM-13247,85341,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511335432,5445468231
+BKA~BAUM-13246,85340,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heckleswiesen,,,511332055,5445478943
+BKA~BAUM-14254,86336,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511463336,5444273382
+BKA~BAUM-14253,86335,Berg-Ahorn,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511486528,5444329763
+BKA~BAUM-14251,86333,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511489136,5444333802
+BKA~BAUM-14252,86334,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511489596,5444333495
+BKA~BAUM-14250,86332,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511492049,5444338505
+BKA~BAUM-13544,85636,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Heuwinkel,,,511471386,5444444645
+BKA~BAUM-13705,85795,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511478586,5445440910
+BKA~BAUM-1941,70590,Walnuß,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Lämmles,,,511084230,5446087548
+BKA~BAUM-2127,70774,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511452681,5445443786
+BKA~BAUM-2126,70773,Birnenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511464676,5445444086
+BKA~BAUM-2135,70782,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511497463,5445451681
+BKA~BAUM-2134,70781,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511489266,5445452082
+BKA~BAUM-2133,70780,Apfelbaumart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511481269,5445452082
+BKA~BAUM-2132,70779,Birnenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511472373,5445451282
+BKA~BAUM-2131,70778,Birnenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511464276,5445451283
+BKA~BAUM-2130,70777,Birnenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511456679,5445450583
+BKA~BAUM-2129,70776,Birnenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511449082,5445450583
+BKA~BAUM-2128,70775,Birnenart,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Ablass,,,511439586,5445449784
+BKA~BAUM-9060,77465,Kirsche - Büttners Rote Knorpel,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511293083,5445833494
+BKA~BAUM-9059,77464,Birne - Schweizer Wasserbirne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511285334,5445843082
+BKA~BAUM-9058,77463,Birne - Schweizer Wasserbirne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511278180,5445852570
+BKA~BAUM-9057,77462,Speierling,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511270282,5445862058
+BKA~BAUM-9056,77461,Apfel - Rote Sternrenette,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511262731,5445871397
+BKA~BAUM-9055,77460,Apfel - Jakob Fischer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511255153,5445880715
+BKA~BAUM-9054,77459,Birne - Palmischbirne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511247515,5445890402
+BKA~BAUM-9053,77458,Birne - Kirchensaller Mostbirne,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511239840,5445899940
+BKA~BAUM-9052,77457,Apfel - Brettacher,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511233059,5445909030
+BKA~BAUM-9051,77456,Apfel - Biesterfelder,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Kirchhausener Weg,01.01.06,18,511225385,5445918345
+BKA-13731,13731,Hängebirke,Heilbronn,Böckingen,Böckingen - Nord,Hanselmannstraße,01.01.70,54,513327725,5444515725
+BKA-6596,6596,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.78,46,512178584,5445143791
+BKA-6530,6530,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.66,58,512152091,5445131198
+BKA-6516,6516,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.70,54,512157392,5445175680
+BKA-6565,6565,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.39,85,512181985,5445240453
+BKA-6499,6499,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.75,49,512146397,5445210067
+BKA-6483,6483,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.48,76,512160992,5445245952
+BKA-6477,6477,Rot-Buche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.76,48,512119207,5445247453
+BKA-6491,6491,Rot-Buche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.63,61,512137001,5445238356
+BKA-6504,6504,Gewöhnliche Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.49,75,512120106,5445197673
+BKA-6587,6587,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.79,45,512190481,5445184575
+BKA-6526,6526,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.80,44,512157390,5445147191
+BKA-6510,6510,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.74,50,512115206,5445169184
+BKA-6601,6601,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.72,52,512188577,5445108205
+BKA-6493,6493,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.70,54,512127864,5445222333
+BKA-6490,6490,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.82,42,512142899,5445245553
+BKA-6487,6487,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.77,47,512160792,5445228059
+BKA-6517,6517,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.75,49,512163889,5445177179
+BKA-6513,6513,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.72,52,512134899,5445171282
+BKA-6525,6525,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.69,55,512160890,5445159886
+BKA~BAUM-13647,85739,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,513008527,5444743058
+BKA~BAUM-13646,85738,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,513003875,5444740219
+BKA~BAUM-13648,85740,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512998433,5444745503
+BKA~BAUM-13649,85741,Reinbestand (Nadelbaum),Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512994096,5444747159
+BKA~BAUM-13650,85742,Stech-Fichte,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512991888,5444747947
+BKA~BAUM-13651,85743,Fichtenart,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512988734,5444749130
+BKA~BAUM-13652,85744,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512976432,5444751812
+BKA~BAUM-13645,85737,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512987078,5444734226
+BKA~BAUM-13644,85736,Walnuß,Heilbronn,Frankenbach,Frankenbach - Ost,Stutz,,,512974933,5444730441
+BKA-6769,6769,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Backhausstraße,01.01.88,36,512493360,5445073130
+BKA~BAUM-9552,78038,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Backhausstraße,01.01.10,14,512505520,5445076180
+BKA-6763,6763,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Backhausstraße,01.01.83,41,512519760,5445079530
+BKA-6760,6760,Baum-Hasel,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.85,39,512510760,5445106020
+BKA~BAUM-3997,72472,Amerikanische Gleditschie `Skyline`,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.03,21,512484270,5445150220
+BKA~BAUM-7233,75475,Seidenbaum Ombrella,Heilbronn,Frankenbach,Frankenbach - Mitte,Stauchenstraße,01.01.06,18,512520770,5445164810
+BKA-6899,6899,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Süd,Saarbrückener Straße,01.01.72,52,512648540,5444955460
+BKA~BAUM-11268,82563,Rot - Esche `Summit`,Heilbronn,Frankenbach,Frankenbach - Mitte,Leisbrunnenstraße,,,512163390,5444790240
+BKA-6737,6737,Kugel-Ahorn,Heilbronn,Frankenbach,Frankenbach - Mitte,Kirchstraße,01.01.86,38,512378860,5445073350
+BKA-6732,6732,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Mitte,Kirchstraße,01.01.85,39,512381550,5445062510
+BKA-64657,64657,Stachellose Gleditschie,Heilbronn,Frankenbach,Frankenbach - Mitte,Kirchstraße,01.01.90,34,512360560,5445066090
+BKA-64653,64653,Stachellose Gleditschie,Heilbronn,Frankenbach,Frankenbach - Mitte,Kirchstraße,01.01.90,34,512364400,5445054540
+BKA-6838,6838,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.60,64,512313640,5444943260
+BKA-6837,6837,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.60,64,512319730,5444952060
+BKA-6841,6841,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.60,64,512329030,5444948460
+BKA-6842,6842,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.60,64,512347220,5444950960
+BKA-6844,6844,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.84,40,512339730,5444941760
+BKA-6840,6840,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.71,53,512326730,5444934970
+BKA-6839,6839,Ahornblättrige Platane,Heilbronn,Frankenbach,Frankenbach - Mitte,Hintertorstraße,01.01.71,53,512319230,5444931970
+BKA-6826,6826,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512148590,5444871300
+BKA-6823,6823,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512133700,5444893190
+BKA-6824,6824,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512142790,5444894890
+BKA-6821,6821,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512123000,5444925380
+BKA-6822,6822,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512130400,5444927880
+BKA-6819,6819,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512109880,5444981610
+BKA-6820,6820,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512116500,5444984360
+BKA-6557,6557,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512104600,5445016150
+BKA-6558,6558,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Mitte,Im Krautgarten,01.01.84,40,512109200,5445017350
+BKA-7305,7305,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Mitte,Am Rotbach,01.01.77,47,512287840,5445268240
+BKA~BAUM-1518,70234,Birne - Schweizer Wasserbirne,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511719761,5444343928
+BKA~BAUM-1521,70237,Apfel - Jakob Fischer,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511715663,5444335331
+BKA~BAUM-1517,70233,Apfel - Jakob Fischer,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511714263,5444342128
+BKA~BAUM-1507,70226,Apfel - Jakob Fischer,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511701069,5444366319
+BKA~BAUM-1506,70225,Apfel - Jakob Fischer,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511699070,5444373216
+BKA~BAUM-1509,70227,Birne - Gelbmöstler,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511705667,5444354823
+BKA~BAUM-1514,70230,Birne - Champanger Bratbirne,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511715137,5444353462
+BKA~BAUM-1523,70239,Zwetschge - Bühler Frühzwetschge,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511726958,5444337430
+BKA~BAUM-1520,70236,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511710365,5444334831
+BKA~BAUM-1522,70238,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511721860,5444336531
+BKA~BAUM-1519,70235,Vogel-Kirsche,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511724759,5444344827
+BKA~BAUM-1516,70232,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511708466,5444341429
+BKA~BAUM-1515,70231,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511722160,5444349925
+BKA~BAUM-1512,70229,Walnuß,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511711564,5444364419
+BKA~BAUM-1510,70228,Walnuß,Heilbronn,Frankenbach,Frankenbach - Süd,Hüttberg,,,511708166,5444374016
+BKA-6519,6519,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.66,58,512121702,5445142295
+BKA-6542,6542,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.63,61,512165781,5445096312
+BKA-6541,6541,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.50,74,512154684,5445092714
+BKA-6539,6539,Rot-Buche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.78,46,512142638,5445092665
+BKA-7254,7254,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.79,45,512141599,5445262246
+BKA-6481,6481,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.81,43,512141799,5445256848
+BKA-6485,6485,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.79,45,512168889,5445241353
+BKA-6503,6503,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.71,53,512155193,5445189674
+BKA-6524,6524,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.67,57,512153392,5445154588
+BKA-6584,6584,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.74,50,512190182,5445201928
+BKA-6599,6599,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.74,50,512182880,5445121400
+BKA-6494,6494,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.74,50,512119906,5445212167
+BKA-6514,6514,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.72,52,512141997,5445172782
+BKA-6515,6515,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.62,62,512148795,5445174581
+BKA-6574,6574,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Stauchenstraße,01.01.48,76,512189283,5445236855
+BKA-6502,6502,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.70,54,512147646,5445201000
+BKA-6508,6508,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.68,56,512113607,5445175382
+BKA-6509,6509,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.80,44,512114107,5445172283
+BKA-6500,6500,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.64,60,512153994,5445206668
+BKA-6594,6594,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.72,52,512177285,5445159185
+BKA-6595,6595,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.80,44,512177384,5445152088
+BKA-6598,6598,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.72,52,512180282,5445128097
+BKA-6600,6600,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.72,52,512185678,5445114702
+BKA-6588,6588,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.76,48,512184583,5445181076
+BKA-6590,6590,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.75,49,512170687,5445178378
+BKA-6581,6581,Pyramiden-Hainbuche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.87,37,512175367,5445216813
+BKA-6531,6531,Schwarz-Kiefer,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.39,85,512167684,5445122201
+BKA-6537,6537,Rot-Buche,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.56,68,512134990,5445090017
+BKA-6522,6522,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Hipfelhof,Hofäcker,01.01.78,46,512132698,5445149791
+BKA-7430,7430,Großblatt-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.23,101,512774490,5445286894
+BKA-7442,7442,Großblatt-Pappel,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.41,83,512780706,5445275758
+BKA-7436,7436,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512804868,5445270350
+BKA-7437,7437,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.54,70,512809355,5445270565
+BKA-7433,7433,Geschlitzter Silber-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Riedweg,01.01.60,64,512763464,5445274249
+BKA-7026,7026,Rotblühende Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.70,54,512432178,5445773152
+BKA~BAUM-965,69725,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.00,24,512434977,5445779850
+BKA~BAUM-4940,73234,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.04,20,512427880,5445769854
+BKA~BAUM-4941,73235,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.04,20,512427480,5445775951
+BKA~BAUM-964,69724,Gewöhnliche Hopfenbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Knoblochstraße,01.01.00,24,512427680,5445779950
+BKA-7074,7074,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512083723,5445668093
+BKA-7079,7079,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.73,51,512108295,5445667571
+BKA-7077,7077,Reinbestand (Laubbaum),Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,,,512100815,5445666094
+BKA-7076,7076,Hängebirke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512094418,5445668093
+BKA-7080,7080,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512111105,5445670126
+BKA-7078,7078,Geschlitzter Silber-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512102814,5445671792
+BKA-7071,7071,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.66,58,512074228,5445674791
+BKA-7072,7072,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.58,66,512078526,5445674491
+BKA-7059,7059,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.70,54,512113210,5445693683
+BKA-7058,7058,Hänge-Birke,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512113310,5445698781
+BKA-7046,7046,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.82,42,512084243,5445694343
+BKA-7045,7045,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.71,53,512081105,5445695643
+BKA-7044,7044,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.71,53,512081175,5445692284
+BKA-7069,7069,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512076127,5445688286
+BKA-7070,7070,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512067531,5445685787
+BKA-7047,7047,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.80,44,512070230,5445681018
+BKA-7064,7064,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512093519,5445687486
+BKA-7063,7063,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.70,54,512097617,5445687586
+BKA-7065,7065,Holländische - Linde,Heilbronn,Frankenbach,Frankenbach - Maihalde,Kirchhausener Straße,01.01.60,64,512088721,5445687686
+BKA-7275,7275,Eingriffliger Weißdorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,01.01.63,61,512159090,5445385701
+BKA-64649,64649,Gelbe Trauer-Weide,Heilbronn,Frankenbach,Frankenbach - Maihalde,Alte Mühle,01.01.90,34,512116006,5445417690
+BKA-7267,7267,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,01.01.60,64,512119405,5445405494
+BKA-14660,14660,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.60,64,512999151,5445761667
+BKA-14622,14622,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.63,61,512958164,5445791266
+BKA-14625,14625,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.60,64,512963563,5445786267
+BKA-14656,14656,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.64,60,512977260,5445759871
+BKA-14657,14657,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.66,58,512981358,5445760571
+BKA-14659,14659,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.69,55,512994553,5445760468
+BKA-14803,14803,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.64,60,512987456,5445757670
+BKA-14804,14804,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.68,56,512990755,5445758969
+BKA-14644,14644,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.68,56,512970760,5445783467
+BKA-14654,14654,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.63,61,512974060,5445778468
+BKA-14650,14650,Gemeine Hainbuche,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.65,59,512972561,5445773169
+BKA-14648,14648,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.60,64,512966963,5445769970
+BKA-14647,14647,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.60,64,512960266,5445770370
+BKA-14645,14645,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.60,64,512955867,5445768271
+BKA-14646,14646,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.60,64,512957367,5445763471
+BKA-14798,14798,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.60,64,512961666,5445757872
+BKA-14800,14800,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.70,54,512969163,5445755772
+BKA-14801,14801,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.70,54,512972862,5445755172
+BKA-14802,14802,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.72,52,512976460,5445754972
+BKA-14642,14642,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.71,53,512958265,5445778469
+BKA-14641,14641,Gewöhnliche Roßkastanie,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.57,67,512954167,5445776869
+BKA-14658,14658,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.62,62,512985963,5445762909
+BKA-14799,14799,Sommer-Linde,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.60,64,512961867,5445752573
+BKA-14643,14643,Spitz-Ahorn,Heilbronn,Frankenbach,Frankenbach - Nord,Kelteräckerstraße,01.01.65,59,512967840,5445779203
+BKA-7271,7271,Gemeine Esche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,01.01.41,83,512134799,5445396897
+BKA-7308,7308,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,01.01.60,64,512177382,5445381502
+BKA-64648,64648,Stiel-Eiche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Alte Mühle,01.01.80,44,512141906,5445400016
+BKA-7272,7272,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,01.01.70,54,512138197,5445409893
+BKA-7307,7307,Trauben-Eiche,Heilbronn,Frankenbach,Frankenbach - Maihalde,Am Rotbach,01.01.60,64,512177182,5445387000
+BKA-7263,7263,Feld-Ahorn,Heilbronn,Frankenbach,Frankenbach - Maihalde,Neuwiesenstraße,01.01.65,59,512146693,5445433685
+BKA-7261,7261,Kirsch-Pflaume,Heilbronn,Frankenbach,Frankenbach - Maihalde,Neuwiesenstraße,01.01.70,54,512147992,5445438583
+BKA-66958,66958,Zirkirsche Accolade,Heilbronn,Frankenbach,Frankenbach - Maihalde,Neuwiesenstraße,01.01.99,25,512157688,5445444982
+BKA~BAUM-2470,71109,"Kultur-Pflaume (Zwet., Mirab., Krieche)",Heilbronn,Kirchhausen,Kirchhausen - Östliches Feld,Schneidecken,,,509548438,5446813960
