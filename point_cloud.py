@@ -44,8 +44,8 @@ def plot_point_cloud(polygon, point_cloud):
     plt.plot(x, y, color='blue', label='Custom Polygon')
     plt.fill(x, y, color='lightgray', alpha=0.5)
 
-    x = [point.x for point in point_cloud]
-    y = [point.y for point in point_cloud]
+    x = [point[0] for point in point_cloud]
+    y = [point[1] for point in point_cloud]
 
     plt.scatter(x, y, color='blue', label='Point Cloud')
 
@@ -56,6 +56,3 @@ def plot_point_cloud(polygon, point_cloud):
     plt.legend()
     plt.show()
 
-
-polygon, point_cloud = generate_point_cloud("punkte_heilbronn.csv", 500)
-plot_point_cloud(polygon, point_cloud)

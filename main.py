@@ -1,6 +1,6 @@
 # Main program
 from count_trees import count_points_in_radius
-from point_cloud import generate_point_cloud, extract_boundry_from_csv
+from point_cloud import generate_point_cloud, plot_point_cloud
 
 if __name__ == "__main__":
     file_path_1 = 'bodenrichtwerte.csv'
@@ -9,8 +9,8 @@ if __name__ == "__main__":
     y_col_name = 'Y-Koordinate'
     radius = 250000
 
-    count_points_in_radius(file_path_1, folder_path, radius, x_col_name, y_col_name)
+    points = count_points_in_radius(file_path_1, folder_path, radius, x_col_name, y_col_name)
 
-    x_values, y_values = extract_boundry_from_csv('punkte_heilbronn.csv')
-    generate_point_cloud(x_values, y_values)
+    polygon, point_cloud = generate_point_cloud("punkte_heilbronn.csv", 500)
+    plot_point_cloud(polygon, points)
     

@@ -22,7 +22,7 @@ def count_points_in_radius(file_path_1, folder_path, radius, x_col_name, y_col_n
             x1, y1 = map(float, [row[x_col_index], row[y_col_index]])
 
             # Füge Koordinaten zur Liste hinzu
-            points.append((x1, y1, 0))  # Der dritte Wert ist die Anzahl der gefundenen Punkte
+            points.append((x1 / 1000, y1 / 1000, 0))  # Der dritte Wert ist die Anzahl der gefundenen Punkte
 
     # Zähle Punkte in Radius aus den Dateien im Ordner
     for filename in os.listdir(folder_path):
@@ -45,7 +45,7 @@ def count_points_in_radius(file_path_1, folder_path, radius, x_col_name, y_col_n
                         points[i] = (x1, y1, count + 1)
 
     # Gebe die Koordinaten aus der ersten Datei und die Anzahl der gefundenen Punkte aus  
-    for x, y, count in points:
-        print(f"Koordinate: ({x}, {y}), Anzahl der gefundenen Punkte im Radius: {count}")
-
+    # for x, y, count in points:
+    #     print(f"Koordinate: ({x}, {y}), Anzahl der gefundenen Punkte im Radius: {count}")
+    return points
 # Beispielaufruf
