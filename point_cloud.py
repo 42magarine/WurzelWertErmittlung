@@ -23,3 +23,6 @@ def extract_boundry_from_csv(file_path):
             y_values.append(y)
 
     return x_values, y_values
+
+def create_point_cloud(x_values, y_values):
+    x_values = 0;
