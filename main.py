@@ -4,7 +4,10 @@ def is_inside_area(x, y):
     x_max, y_max = 522194.589, 5451251.841
 
     # Check if the coordinates are inside the specified area
-    return x_min <= x <= x_max and y_min <= y <= y_max
+    if x_min <= x <= x_max and y_min <= y <= y_max:
+        return
+    else:
+        raise ValueError("Input not inside area")
 
 
 def get_coordinates():
@@ -17,9 +20,10 @@ def get_coordinates():
         print("Example X: 5442613")
     
         y = float(input("Enter the y coordinate: "))
+        is_inside_area(x, y);
         return x, y
-    except ValueError:
-        print("Invalid input. Please enter numerical values for coordinates.")
+    except ValueError as e:
+        print(f"Error: {e}")
         return get_coordinates()
 
 # Main program
@@ -29,4 +33,5 @@ if __name__ == "__main__":
 
     # Display the coordinates
     print(f"Entered coordinates: ({x_coord}, {y_coord})")
+
 
