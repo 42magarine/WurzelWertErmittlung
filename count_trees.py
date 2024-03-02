@@ -43,7 +43,6 @@ def count_points_in_radius(file_path_1, folder_path_2, radius, x_col_name, y_col
                     if x_col_index_2 is not None and y_col_index_2 is not None:
 
                         x2, y2 = map(float, [row[x_col_index_2], row[y_col_index_2]])
-                        print(x2, y2)
                         # Überprüfe, ob die Distanz innerhalb des Radius liegtsldso
                         for i, (x1, y1, count) in enumerate(points):
                             if calculate_distance(x1, y1, x2, y2) <= radius:

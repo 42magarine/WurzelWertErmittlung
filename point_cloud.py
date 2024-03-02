@@ -12,17 +12,50 @@ def extract_boundry_from_csv(file_path):
         reader = csv.reader(csv_file)
         next(reader)
         for row in reader:
-            # Assuming the x and y columns are the first and second columns in the CSV
-            x, y = map(float, row[:2])
-
-            # Round x and y to two decimal places
-            x = round(x, 2)
-            y = round(y, 2)
-
-            x_values.append(x)
-            y_values.append(y)
+            x_values.append(float(row[0]))
+            y_values.append(float(row[1]))
 
     return x_values, y_values
 
-def create_point_cloud(x_values, y_values):
-    x_values = 0;
+
+import numpy as np
+from shapely.geometry import Polygon, Point
+import matplotlib.pyplot as plt
+
+def generate_point_cloud(file_path, distance_between_points):
+    x_values, y_values = extract_boundry_from_csv(file_path)
+    polygon = Polygon(zip(x_values, y_values))
+    
+    point_cloud = []
+    next_point = Point(polygon.bounds[0], polygon.bounds[1])
+    i = 0;
+    while next_point.y < polygon.bounds[3]:
+        while next_point.x < polygon.bounds[2]:
+            if polygon.contains(next_point):
+                point_cloud.append(next_point)
+            next_point = Point(next_point.x + distance_between_points, next_point.y)
+        next_point = Point(polygon.bounds[0], next_point.y + distance_between_points)
+    return polygon, point_cloud
+    
+
+def plot_point_cloud(polygon, point_cloud):
+    x, y = polygon.exterior.xy
+
+    plt.plot(x, y, color='blue', label='Custom Polygon')
+    plt.fill(x, y, color='lightgray', alpha=0.5)
+
+    x = [point.x for point in point_cloud]
+    y = [point.y for point in point_cloud]
+
+    plt.scatter(x, y, color='blue', label='Point Cloud')
+
+    # Add labels and show the plot
+    plt.xlabel('X-axis')
+    plt.ylabel('Y-axis')
+    plt.title('Custom Polygon')
+    plt.legend()
+    plt.show()
+
+
+polygon, point_cloud = generate_point_cloud("punkte_heilbronn.csv", 500)
+plot_point_cloud(polygon, point_cloud)
