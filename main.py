@@ -1,3 +1,5 @@
+from point_cloud.py import extract_boundry_from_csv
+
 def is_inside_area(x, y):
     # Define the bounding coordinates for the area
     x_min, y_min = 502481.266, 5437546.859
@@ -29,9 +31,11 @@ def get_coordinates():
 # Main program
 if __name__ == "__main__":
     # Get coordinates from the user
-    x_coord, y_coord = get_coordinates()
+    # x_coord, y_coord = get_coordinates()
 
     # Display the coordinates
-    print(f"Entered coordinates: ({x_coord}, {y_coord})")
-
+    # print(f"Entered coordinates: ({x_coord}, {y_coord})")
+    
+    x_values, y_values = extract_boundry_from_csv('punkte_heilbronn.csv')
+    print(x_values)
 
