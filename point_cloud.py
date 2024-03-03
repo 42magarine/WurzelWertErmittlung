@@ -65,7 +65,7 @@ def plot_point_cloud(polygon, point_cloud):
 
 from matplotlib.patches import PathPatch
 from matplotlib.path import Path
-from numpy import np
+import numpy as np
 
 def plot_gradient_map(polygon, point_cloud):
     polygon_vertices = np.array(polygon.boundary.xy).T
