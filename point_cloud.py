@@ -26,14 +26,14 @@ def generate_point_cloud(file_path, distance_between_points):
     polygon = Polygon(zip(x_values, y_values))
     
     point_cloud = []
-    next_point = Point(polygon.bounds[0], polygon.bounds[1])
+    next_point = [polygon.bounds[0], polygon.bounds[1], 0, 0]
     i = 0;
-    while next_point.y < polygon.bounds[3]:
-        while next_point.x < polygon.bounds[2]:
-            if polygon.contains(next_point):
+    while next_point[1] < polygon.bounds[3]:
+        while next_point[0] < polygon.bounds[2]:
+            if polygon.contains(Point(next_point[0], next_point[1])):
                 point_cloud.append(next_point)
-            next_point = Point(next_point.x + distance_between_points, next_point.y)
-        next_point = Point(polygon.bounds[0], next_point.y + distance_between_points)
+            next_point = [next_point[0] + distance_between_points, next_point[1], 0, 0]
+        next_point = [polygon.bounds[0], next_point[1] + distance_between_points, 0, 0]
     return polygon, point_cloud
     
 
@@ -48,15 +48,15 @@ def plot_point_cloud(polygon, point_cloud):
 
     x = [point[0] for point in point_cloud]
     y = [point[1] for point in point_cloud]
-    count_trees = [point[2] for point in point_cloud]
-    print(count_trees)
+    count_trees = [point[3] for point in point_cloud]
+    # print(count_trees)
     scatter = plt.scatter(x, y, c=count_trees, cmap='viridis')
     # plt.scatter(x, y, color='blue', label='Point Cloud')
 
 
     # Add labels and show the plot
     cbar = plt.colorbar(scatter)
-    cbar.set_label('Trees')
+    cbar.set_label('WurzelWert')
     plt.xlabel('X-axis')
     plt.ylabel('Y-axis')
     plt.title('Custom Polygon')
