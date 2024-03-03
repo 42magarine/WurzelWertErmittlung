@@ -1,48 +1,48 @@
-Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,Entwicklungszustand,Art der Nutzung,Ergänzung zur Art der Nutzung,Wertrelevante Geschossflächenzahl,Bemerkungen,Bodenrichtwertzonenname,Koordinaten (formatiert),X-Koordinate,Y-Koordinate,Höhe (Z-Koordinate),EPSG-Code
-9148030,Horkheim,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"512.529,482 / 5.439.238,419 (EPSG: 25832)",512529482,5439238419,,25832
+Bodenrichtwertnummer,Ortsteil,Bodenrichtwert,Stichtag des Bodenrichtwerts,Entwicklungszustand,Art der Nutzung,Ergänzung zur Art der Nutzung,Wertrelevante Geschossflächenzahl,Bemerkungen,Bodenrichtwertzonenname,Koordinaten (formatiert),X-Koordinate,Y-Koordinate,Höhe (Z-Koordinate),EPSG-Code
+9148030,Horkheim,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"512.529,482 / 5.439.238,419 (EPSG: 25832)",512529482,5439238419,,25832
 9148170,Horkheim,160,01.01.23,B,W,ASB,,,Wohnen Außen,"511.531,267 / 5.438.867,571 (EPSG: 25832)",511531267,5438867571,,25832
 9148930,Horkheim,60,01.01.23,B,G,ASB,,,Gewerbe Außen,"511.852,571 / 5.439.864,311 (EPSG: 25832)",511852571,5439864311,,25832
-9148060,Horkheim,"0,6",01.01.23,LF,F,,,ohne Aufwuchs,Wald,"512.132,298 / 5.439.387,671 (EPSG: 25832)",512132298,5439387671,,25832
+9148060,Horkheim,0.6,01.01.23,LF,F,,,ohne Aufwuchs,Wald,"512.132,298 / 5.439.387,671 (EPSG: 25832)",512132298,5439387671,,25832
 9148070,Horkheim,16,01.01.23,SF,FGA,,,,Garten-/Erholungsfläche,"512.165,730 / 5.439.909,203 (EPSG: 25832)",512165730,5439909203,,25832
-9148010,Horkheim,"4,1",01.01.23,LF,A,,,,Acker,"511.769,008 / 5.439.639,522 (EPSG: 25832)",511769008,5439639522,,25832
-9148020,Horkheim,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"512.832,133 / 5.439.534,770 (EPSG: 25832)",512832133,5439534770,,25832
-9148050,Horkheim,"9,5",01.01.23,LF,WG,,,ohne Steilhanglagen,Weinberg,"511.655,341 / 5.438.464,959 (EPSG: 25832)",511655341,5438464959,,25832
+9148010,Horkheim,4.1,01.01.23,LF,A,,,,Acker,"511.769,008 / 5.439.639,522 (EPSG: 25832)",511769008,5439639522,,25832
+9148020,Horkheim,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"512.832,133 / 5.439.534,770 (EPSG: 25832)",512832133,5439534770,,25832
+9148050,Horkheim,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,Weinberg,"511.655,341 / 5.438.464,959 (EPSG: 25832)",511655341,5438464959,,25832
 9148920,Horkheim,8,01.01.23,SF,AB,STN,,,Steinbruch,"513.074,999 / 5.438.589,006 (EPSG: 25832)",513074999,5438589006,,25832
 9148160,Horkheim,,01.01.23,SF,SPO,,,Kein Bodenrichtwert festgesetzt,"Kleintierzucht, Hundesportanlage","512.815,297 / 5.438.740,956 (EPSG: 25832)",512815297,5438740956,,25832
-9101016,Heilbronn,"9,5",01.01.23,LF,A,,,,Acker,"516.652,146 / 5.446.200,962 (EPSG: 25832)",516652146,5446200962,,25832
-9101059,Heilbronn,"11,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S, W, O","516.902,146 / 5.446.020,962 (EPSG: 25832)",516902146,5446020962,,25832
+9101016,Heilbronn,9.5,01.01.23,LF,A,,,,Acker,"516.652,146 / 5.446.200,962 (EPSG: 25832)",516652146,5446200962,,25832
+9101059,Heilbronn,11.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S, W, O","516.902,146 / 5.446.020,962 (EPSG: 25832)",516902146,5446020962,,25832
 9103915,Sontheim,60,01.01.23,B,G,ASB,,,Gewerbe außen,"513.854,968 / 5.439.567,086 (EPSG: 25832)",513854968,5439567086,,25832
 9103804,Sontheim,160,01.01.23,B,W,ASB,,,Wohnen außen,"513.839,150 / 5.439.750,129 (EPSG: 25832)",513839150,5439750129,,25832
-9103032,Sontheim,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"513.279,351 / 5.439.938,029 (EPSG: 25832)",513279351,5439938029,,25832
+9103032,Sontheim,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"513.279,351 / 5.439.938,029 (EPSG: 25832)",513279351,5439938029,,25832
 9103074,Sontheim,20,01.01.23,SF,FGA,,,westlich Lauffener Straße,"Garten-/Freizeitgrundstücke, westlich La","513.224,657 / 5.440.061,091 (EPSG: 25832)",513224657,5440061091,,25832
-9103011,Sontheim,"4,7",01.01.23,LF,A,,,,Acker,"513.276,616 / 5.439.866,926 (EPSG: 25832)",513276616,5439866926,,25832
-9103020,Sontheim,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"514.487,479 / 5.439.958,572 (EPSG: 25832)",514487479,5439958572,,25832
-9103031,Sontheim,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"514.657,037 / 5.440.235,549 (EPSG: 25832)",514657037,5440235549,,25832
-9103010,Sontheim,"4,7",01.01.23,LF,A,,,,Acker,"514.385,596 / 5.439.746,133 (EPSG: 25832)",514385596,5439746133,,25832
+9103011,Sontheim,4.7,01.01.23,LF,A,,,,Acker,"513.276,616 / 5.439.866,926 (EPSG: 25832)",513276616,5439866926,,25832
+9103020,Sontheim,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"514.487,479 / 5.439.958,572 (EPSG: 25832)",514487479,5439958572,,25832
+9103031,Sontheim,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"514.657,037 / 5.440.235,549 (EPSG: 25832)",514657037,5440235549,,25832
+9103010,Sontheim,4.7,01.01.23,LF,A,,,,Acker,"514.385,596 / 5.439.746,133 (EPSG: 25832)",514385596,5439746133,,25832
 9103071,Sontheim,21,01.01.23,SF,FGA,,,"zwischen Lauffener Str. und L 1100, verkehrsbelastet","Garten-/Freizeitgrundstücke, zw Lauffene","515.107,356 / 5.440.145,526 (EPSG: 25832)",515107356,5440145526,,25832
 9103805,Sontheim,160,01.01.23,B,W,ASB,,,Wohnen außen,"513.432,210 / 5.440.201,490 (EPSG: 25832)",513432210,5440201490,,25832
 9103916,Sontheim,60,01.01.23,B,G,ASB,,,Gewerbe außen,"513.175,145 / 5.439.578,992 (EPSG: 25832)",513175145,5439578992,,25832
-9103021,Sontheim,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"513.298,494 / 5.439.804,028 (EPSG: 25832)",513298494,5439804028,,25832
+9103021,Sontheim,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"513.298,494 / 5.439.804,028 (EPSG: 25832)",513298494,5439804028,,25832
 9103070,Sontheim,24,01.01.23,SF,FGA,,,zwischen L 1100 und L 1111,"Garten-/Freizeitgr, zwischen L 1100 und","515.987,186 / 5.440.001,389 (EPSG: 25832)",515987186,5440001389,,25832
 9101076,Heilbronn,26,01.01.23,SF,FGA,,,,"FGA Süd,Ost","516.599,245 / 5.440.576,810 (EPSG: 25832)",516599245,5440576810,,25832
 9101077,Heilbronn,19,01.01.23,SF,FGA,,,,FGA verkehrsbelastet Staufenberger Weg,"516.231,398 / 5.440.519,973 (EPSG: 25832)",516231398,5440519973,,25832
 9101993,Heilbronn,60,01.01.23,B,G,ASB,,,Gewerbe außen,"519.027,146 / 5.443.200,962 (EPSG: 25832)",519027146,5443200962,,25832
-9103051,Sontheim,"11,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg, Süd, West, Ost","516.557,910 / 5.439.819,770 (EPSG: 25832)",516557910,5439819770,,25832
+9103051,Sontheim,11.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg, Süd, West, Ost","516.557,910 / 5.439.819,770 (EPSG: 25832)",516557910,5439819770,,25832
 9103914,Sontheim,60,01.01.23,B,G,ASB,,,Gewerbe außen,"516.002,631 / 5.440.243,027 (EPSG: 25832)",516002631,5440243027,,25832
 9101075,Heilbronn,26,01.01.23,SF,FGA,,,,FGA Ost,"518.447,395 / 5.441.862,151 (EPSG: 25832)",518447395,5441862151,,25832
 9101084,Heilbronn,,01.01.23,SF,SPO,,,Kein Bodenrichtwert festgesetzt,Theresienwiese,"514.837,692 / 5.442.503,273 (EPSG: 25832)",514837692,5442503273,,25832
 9101994,Heilbronn,60,01.01.23,B,G,,,,Gewerbe außen,"516.827,146 / 5.440.260,962 (EPSG: 25832)",516827146,5440260962,,25832
-9103040,Sontheim,"1,1",01.01.23,LF,F,,,ohne Aufwuchs,Wald,"517.868,315 / 5.439.536,390 (EPSG: 25832)",517868315,5439536390,,25832
+9103040,Sontheim,1.1,01.01.23,LF,F,,,ohne Aufwuchs,Wald,"517.868,315 / 5.439.536,390 (EPSG: 25832)",517868315,5439536390,,25832
 9101970,Heilbronn,195,01.01.23,B,G,,,Gewerbegebiet,Knorrstraße,"515.608,500 / 5.442.199,725 (EPSG: 25832)",515608500,5442199725,,25832
 9101952,Heilbronn,195,01.01.23,B,GE,,,,"Gewerbegebiet, Stuttgarter Straße","516.343,861 / 5.441.517,818 (EPSG: 25832)",516343861,5441517818,,25832
 9101982,Heilbronn,195,01.01.23,B,G,,,,GE/GI Telefunkenpark,"515.095,941 / 5.442.546,600 (EPSG: 25832)",515095941,5442546600,,25832
 9101983,Heilbronn,350,01.01.23,B,SO,,,Zulässigkeit von großflächigem Groß- oder Einzelhandel (>800m² Verkaufsfläche),"SO, Olgastraße","515.243,188 / 5.442.698,257 (EPSG: 25832)",515243188,5442698257,,25832
-9103012,Sontheim,"4,7",01.01.23,LF,A,,,,Acker,"515.762,443 / 5.439.921,944 (EPSG: 25832)",515762443,5439921944,,25832
-9101014,Heilbronn,"9,5",01.01.23,LF,A,,,,Acker,"516.532,348 / 5.440.864,468 (EPSG: 25832)",516532348,5440864468,,25832
-9101056,Heilbronn,"9,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg NW,NO","516.777,146 / 5.440.770,962 (EPSG: 25832)",516777146,5440770962,,25832
-9101013,Heilbronn,"9,5",01.01.23,LF,A,,,,Acker,"518.077,146 / 5.441.870,962 (EPSG: 25832)",518077146,5441870962,,25832
-9101021,Heilbronn,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"518.077,146 / 5.441.800,962 (EPSG: 25832)",518077146,5441800962,,25832
-9101054,Heilbronn,"9,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg NW, NO","517.252,146 / 5.441.240,962 (EPSG: 25832)",517252146,5441240962,,25832
+9103012,Sontheim,4.7,01.01.23,LF,A,,,,Acker,"515.762,443 / 5.439.921,944 (EPSG: 25832)",515762443,5439921944,,25832
+9101014,Heilbronn,9.5,01.01.23,LF,A,,,,Acker,"516.532,348 / 5.440.864,468 (EPSG: 25832)",516532348,5440864468,,25832
+9101056,Heilbronn,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg NW,NO","516.777,146 / 5.440.770,962 (EPSG: 25832)",516777146,5440770962,,25832
+9101013,Heilbronn,9.5,01.01.23,LF,A,,,,Acker,"518.077,146 / 5.441.870,962 (EPSG: 25832)",518077146,5441870962,,25832
+9101021,Heilbronn,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"518.077,146 / 5.441.800,962 (EPSG: 25832)",518077146,5441800962,,25832
+9101054,Heilbronn,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg NW, NO","517.252,146 / 5.441.240,962 (EPSG: 25832)",517252146,5441240962,,25832
 9101330,Heilbronn,710,01.01.23,B,MI,,1.50,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Werderstraße,"516.247,150 / 5.442.296,591 (EPSG: 25832)",516247150,5442296591,,25832
 9101381,Heilbronn,830,01.01.23,B,MI,,1.50,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Bahnhofvorstadt,"515.403,880 / 5.443.178,290 (EPSG: 25832)",515403880,5443178290,,25832
 9101350,Heilbronn,770,01.01.23,B,M,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Bietigheimer Str./ westl. Friedrich-Dürr,"515.089,916 / 5.441.963,804 (EPSG: 25832)",515089916,5441963804,,25832
@@ -50,18 +50,18 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9101392,Heilbronn,780,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²","Badenerhof, Will-Schaber-Straße","518.133,476 / 5.442.615,654 (EPSG: 25832)",518133476,5442615654,,25832
 9101393,Heilbronn,950,01.01.23,B,WA,MFH,1.10,Geschosswohnungsbau,Badenerhof,"518.112,947 / 5.442.457,060 (EPSG: 25832)",518112947,5442457060,,25832
 9100010,Heilbronn,3700,01.01.23,B,MK,,3.00,Geschäftslagenklasse Ia,Geschäftlagenklasse Ia Fleiner Straße,"515.938,617 / 5.443.055,806 (EPSG: 25832)",515938617,5443055806,,25832
-9101057,Heilbronn,"11,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S,W,O","516.777,146 / 5.440.700,962 (EPSG: 25832)",516777146,5440700962,,25832
-9101055,Heilbronn,"11,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S,W,O","517.252,146 / 5.441.160,962 (EPSG: 25832)",517252146,5441160962,,25832
+9101057,Heilbronn,11.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S,W,O","516.777,146 / 5.440.700,962 (EPSG: 25832)",516777146,5440700962,,25832
+9101055,Heilbronn,11.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S,W,O","517.252,146 / 5.441.160,962 (EPSG: 25832)",517252146,5441160962,,25832
 9101503,Heilbronn,225,01.01.23,B,W,ASB,,,Wohnen außen,"519.027,146 / 5.443.270,962 (EPSG: 25832)",519027146,5443270962,,25832
-9101032,Heilbronn,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"518.445,458 / 5.441.978,970 (EPSG: 25832)",518445458,5441978970,,25832
+9101032,Heilbronn,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"518.445,458 / 5.441.978,970 (EPSG: 25832)",518445458,5441978970,,25832
 9101250,Heilbronn,950,01.01.23,B,WR,,0.60,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 650 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",August-Lämmle-Straße/ Hermann-Hesse-Stra,"518.836,840 / 5.442.260,640 (EPSG: 25832)",518836840,5442260640,,25832
-9101041,Heilbronn,"1,1",01.01.23,LF,F,,,ohne Aufwuchs,Wald,"519.089,446 / 5.440.915,198 (EPSG: 25832)",519089446,5440915198,,25832
+9101041,Heilbronn,1.1,01.01.23,LF,F,,,ohne Aufwuchs,Wald,"519.089,446 / 5.440.915,198 (EPSG: 25832)",519089446,5440915198,,25832
 9103913,Sontheim,550,01.01.23,B,GB,,,,"GB, Max Planck Straße","515.545,930 / 5.440.789,812 (EPSG: 25832)",515545930,5440789812,,25832
-9103030,Sontheim,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"515.899,613 / 5.440.455,583 (EPSG: 25832)",515899613,5440455583,,25832
+9103030,Sontheim,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"515.899,613 / 5.440.455,583 (EPSG: 25832)",515899613,5440455583,,25832
 9101962,Heilbronn,205,01.01.23,B,GE,,,,"Gewerbegebiet, Businesspark Schwabenhof","516.032,906 / 5.440.796,810 (EPSG: 25832)",516032906,5440796810,,25832
 9101963,Heilbronn,350,01.01.23,B,SO,,,Zulässigkeit von großflächigem Groß- oder Einzelhandel (>800m² Verkaufsfläche),"SO, Businesspark Schwabenhof","516.078,367 / 5.441.148,432 (EPSG: 25832)",516078367,5441148432,,25832
 9101320,Heilbronn,670,01.01.23,B,WA,,0.80,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Sontheimer Straße bis Stuttgarter Straße,"515.629,810 / 5.441.677,624 (EPSG: 25832)",515629810,5441677624,,25832
-9103050,Sontheim,"9,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg, Nordwest u.Nordost,","516.485,063 / 5.440.048,358 (EPSG: 25832)",516485063,5440048358,,25832
+9103050,Sontheim,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg, Nordwest u.Nordost,","516.485,063 / 5.440.048,358 (EPSG: 25832)",516485063,5440048358,,25832
 9103161,Sontheim,710,01.01.23,B,WA,MFH,1.20,Geschosswohnungsbau,Max- Planck- Str. / Robert- Bosch- Str.,"515.037,016 / 5.440.871,509 (EPSG: 25832)",515037016,5440871509,,25832
 9103100,Sontheim,720,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²","Sontheim ""Ost"", östlich der Karl-Döft-St","514.748,368 / 5.440.664,559 (EPSG: 25832)",514748368,5440664559,,25832
 9103072,Sontheim,21,01.01.23,SF,FGA,,,,Garten und Freizeitgrundstücke,"515.649,118 / 5.441.194,645 (EPSG: 25832)",515649118,5441194645,,25832
@@ -108,16 +108,16 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9101083,Heilbronn,,01.01.23,SF,SPO,,,Kein Bodenrichtwert festgesetzt,Pfühlpark,"518.045,803 / 5.443.046,038 (EPSG: 25832)",518045803,5443046038,,25832
 9100045,Heilbronn,1180,01.01.23,B,MK,,3.00,Geschäftslagenklasse IIb,GeLa IIb Am Wollhaus,"516.044,617 / 5.442.932,107 (EPSG: 25832)",516044617,5442932107,,25832
 9101992,Heilbronn,60,01.01.23,B,G,ASB,,,Gewerbe außen,"518.718,856 / 5.444.993,070 (EPSG: 25832)",518718856,5444993070,,25832
-9101031,Heilbronn,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"518.167,346 / 5.444.717,315 (EPSG: 25832)",518167346,5444717315,,25832
+9101031,Heilbronn,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"518.167,346 / 5.444.717,315 (EPSG: 25832)",518167346,5444717315,,25832
 9101501,Heilbronn,225,01.01.23,B,W,ASB,,,Wohnen außen,"517.002,146 / 5.444.920,962 (EPSG: 25832)",517002146,5444920962,,25832
-9101042,Heilbronn,"1,1",01.01.23,LF,F,,,ohne Aufwuchs,Wald,"518.169,683 / 5.444.651,881 (EPSG: 25832)",518169683,5444651881,,25832
+9101042,Heilbronn,1.1,01.01.23,LF,F,,,ohne Aufwuchs,Wald,"518.169,683 / 5.444.651,881 (EPSG: 25832)",518169683,5444651881,,25832
 9101080,Heilbronn,26,01.01.23,SF,FGA,,,,"FGA, Wartbergturm, Wolfszipfel, Bürg","518.179,030 / 5.444.525,688 (EPSG: 25832)",518179030,5444525688,,25832
 9101079,Heilbronn,19,01.01.23,SF,FGA,,,,FGA verkehrsbelastet Untere Ried,"518.977,146 / 5.444.840,962 (EPSG: 25832)",518977146,5444840962,,25832
-9101053,Heilbronn,"11,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S,W,O","518.176,693 / 5.444.591,121 (EPSG: 25832)",518176693,5444591121,,25832
-9101012,Heilbronn,"9,5",01.01.23,LF,A,,,,Acker,"518.169,683 / 5.444.775,737 (EPSG: 25832)",518169683,5444775737,,25832
-9101052,Heilbronn,"11,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S,W,O","517.726,983 / 5.444.733,755 (EPSG: 25832)",517726983,5444733755,,25832
+9101053,Heilbronn,11.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S,W,O","518.176,693 / 5.444.591,121 (EPSG: 25832)",518176693,5444591121,,25832
+9101012,Heilbronn,9.5,01.01.23,LF,A,,,,Acker,"518.169,683 / 5.444.775,737 (EPSG: 25832)",518169683,5444775737,,25832
+9101052,Heilbronn,11.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S,W,O","517.726,983 / 5.444.733,755 (EPSG: 25832)",517726983,5444733755,,25832
 9101081,Heilbronn,26,01.01.23,SF,FGA,,,,"FGA, Wartberg, Kälberweg","517.724,824 / 5.444.489,709 (EPSG: 25832)",517724824,5444489709,,25832
-9101011,Heilbronn,"9,5",01.01.23,LF,A,,,,Acker,"516.813,428 / 5.445.278,001 (EPSG: 25832)",516813428,5445278001,,25832
+9101011,Heilbronn,9.5,01.01.23,LF,A,,,,Acker,"516.813,428 / 5.445.278,001 (EPSG: 25832)",516813428,5445278001,,25832
 9101170,Heilbronn,800,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Im Breitenloch/ Kübelstraße/ Krämerstraß,"517.258,968 / 5.444.308,273 (EPSG: 25832)",517258968,5444308273,,25832
 9101991,Heilbronn,60,01.01.23,B,G,ASB,,,Gewerbe außen,"517.002,146 / 5.444.840,962 (EPSG: 25832)",517002146,5444840962,,25832
 9100044,Heilbronn,1180,01.01.23,B,MK,,3.00,Geschäftslagenklasse IIb,GeLa IIb Am Kieselmarkt/ Falkenstraße,"516.019,904 / 5.443.328,666 (EPSG: 25832)",516019904,5443328666,,25832
@@ -131,7 +131,7 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9148100,Horkheim,670,01.01.23,B,WA,,0.80,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Heilbronner Weg bis Wagenburgerstraße,"512.786,847 / 5.440.239,032 (EPSG: 25832)",512786847,5440239032,,25832
 9103140,Sontheim,520,01.01.23,B,MI,,1.00,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 400 m², Doppelhaushälften: 200 m², Reihenmittelhäuser: 200 m²",Ortskern,"513.840,473 / 5.440.600,110 (EPSG: 25832)",513840473,5440600110,,25832
 9148120,Horkheim,510,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Hohenloher Straße bis Amsterdamer Straße,"512.692,979 / 5.440.482,083 (EPSG: 25832)",512692979,5440482083,,25832
-9125032,Böckingen,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche südl.Ludwigsburgerstr,"513.454,801 / 5.441.306,413 (EPSG: 25832)",513454801,5441306413,,25832
+9125032,Böckingen,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche südl.Ludwigsburgerstr,"513.454,801 / 5.441.306,413 (EPSG: 25832)",513454801,5441306413,,25832
 9125076,Böckingen,35,01.01.23,SF,KGA,,,,KGA,"513.947,456 / 5.441.309,048 (EPSG: 25832)",513947456,5441309048,,25832
 9125079,Böckingen,20,01.01.23,SF,FGA,,,,FGA,"513.152,954 / 5.441.758,904 (EPSG: 25832)",513152954,5441758904,,25832
 9125077,Böckingen,35,01.01.23,SF,KGA,,,,KGA,"513.024,125 / 5.441.159,412 (EPSG: 25832)",513024125,5441159412,,25832
@@ -142,11 +142,11 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9148110,Horkheim,530,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Talheimer Straße bis Kelterweg,"512.442,821 / 5.440.158,636 (EPSG: 25832)",512442821,5440158636,,25832
 9125942,Böckingen,60,01.01.23,B,G,ASB,,,Gewerbe außen,"513.677,146 / 5.441.360,962 (EPSG: 25832)",513677146,5441360962,,25832
 9103912,Sontheim,60,01.01.23,B,GE,,,,"Gewerbegebiet, Neckartalstraße","513.219,348 / 5.440.683,710 (EPSG: 25832)",513219348,5440683710,,25832
-9125022,Böckingen,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Grünland südl. Ludwigsburger Str.,"512.802,146 / 5.440.980,962 (EPSG: 25832)",512802146,5440980962,,25832
-9125012,Böckingen,"4,2",01.01.23,LF,A,,,,Acker südl. Ludwigsburger Str.,"512.802,146 / 5.441.060,962 (EPSG: 25832)",512802146,5441060962,,25832
+9125022,Böckingen,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Grünland südl. Ludwigsburger Str.,"512.802,146 / 5.440.980,962 (EPSG: 25832)",512802146,5440980962,,25832
+9125012,Böckingen,4.2,01.01.23,LF,A,,,,Acker südl. Ludwigsburger Str.,"512.802,146 / 5.441.060,962 (EPSG: 25832)",512802146,5441060962,,25832
 9126150,Klingenberg,150,01.01.23,B,W,ASB,,,Wohnen Außen,"510.285,447 / 5.440.800,559 (EPSG: 25832)",510285447,5440800559,,25832
 9103170,Sontheim,620,01.01.23,R,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Klingenäcker,"513.748,351 / 5.440.355,090 (EPSG: 25832)",513748351,5440355090,,25832
-9125034,Böckingen,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche nörd.Ludwigsburgerstr,"512.674,971 / 5.441.608,188 (EPSG: 25832)",512674971,5441608188,,25832
+9125034,Böckingen,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche nörd.Ludwigsburgerstr,"512.674,971 / 5.441.608,188 (EPSG: 25832)",512674971,5441608188,,25832
 9125191,Böckingen,150,01.01.23,B,W,ASB,,,Wohnen außen,"511.927,146 / 5.441.980,962 (EPSG: 25832)",511927146,5441980962,,25832
 9125110,Böckingen,630,01.01.23,B,WA,,0.60,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Im Jockele/ Kappelfeldle/ Jäckleinstraße,"513.529,139 / 5.441.823,551 (EPSG: 25832)",513529139,5441823551,,25832
 9125131,Böckingen,720,01.01.23,B,WA,MFH,1.00,Geschosswohnungsbau,Lortzingstraße/ Fritz-Ulrich- Str./ Romb,"513.747,473 / 5.442.367,553 (EPSG: 25832)",513747473,5442367553,,25832
@@ -159,20 +159,20 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9137170,Frankenbach,160,01.01.23,B,W,ASB,,,W außen südl. Gebiet neu,"512.597,048 / 5.444.666,342 (EPSG: 25832)",512597048,5444666342,,25832
 9137900,Frankenbach,60,01.01.23,B,G,ASB,,,G außen südl. Gebiet neu,"512.600,065 / 5.444.555,761 (EPSG: 25832)",512600065,5444555761,,25832
 9137072,Frankenbach,16,01.01.23,SF,FGA,,,,FGA südl. Gebiet neu,"512.271,523 / 5.444.188,889 (EPSG: 25832)",512271523,5444188889,,25832
-9137031,Frankenbach,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen ( Streuobstwiese),Baumwiese südl.,"512.274,261 / 5.444.246,384 (EPSG: 25832)",512274261,5444246384,,25832
+9137031,Frankenbach,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen ( Streuobstwiese),Baumwiese südl.,"512.274,261 / 5.444.246,384 (EPSG: 25832)",512274261,5444246384,,25832
 9137075,Frankenbach,1,01.01.23,B,G,ASB,,Kein Bodenrichtwert festgesetzt,Gewerbe Außen Motocrossanlage,"511.813,080 / 5.444.547,273 (EPSG: 25832)",511813080,5444547273,,25832
-9137021,Frankenbach,"1,6",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"512.274,261 / 5.444.328,519 (EPSG: 25832)",512274261,5444328519,,25832
+9137021,Frankenbach,1.6,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"512.274,261 / 5.444.328,519 (EPSG: 25832)",512274261,5444328519,,25832
 9137013,Frankenbach,4,01.01.23,LF,A,,,,Acker südl. Gebiet neu,"512.285,213 / 5.444.407,917 (EPSG: 25832)",512285213,5444407917,,25832
-9137010,Frankenbach,"3,3",01.01.23,LF,A,,,,Acker nördlich,"511.407,693 / 5.446.184,879 (EPSG: 25832)",511407693,5446184879,,25832
-9137024,Frankenbach,"1,6",01.01.23,LF,GR,,,,Wiese nördl. Bereich,"511.454,475 / 5.444.637,162 (EPSG: 25832)",511454475,5444637162,,25832
-9137042,Frankenbach,"0,6",01.01.23,LF,F,,,ohne Aufwuchs,Forst südl. Fläche neu,"511.590,924 / 5.444.266,801 (EPSG: 25832)",511590924,5444266801,,25832
+9137010,Frankenbach,3.3,01.01.23,LF,A,,,,Acker nördlich,"511.407,693 / 5.446.184,879 (EPSG: 25832)",511407693,5446184879,,25832
+9137024,Frankenbach,1.6,01.01.23,LF,GR,,,,Wiese nördl. Bereich,"511.454,475 / 5.444.637,162 (EPSG: 25832)",511454475,5444637162,,25832
+9137042,Frankenbach,0.6,01.01.23,LF,F,,,ohne Aufwuchs,Forst südl. Fläche neu,"511.590,924 / 5.444.266,801 (EPSG: 25832)",511590924,5444266801,,25832
 9137076,Frankenbach,16,01.01.23,SF,FGA,,,,FGA nördl. Gebiet,"511.750,763 / 5.445.358,390 (EPSG: 25832)",511750763,5445358390,,25832
-9137041,Frankenbach,"0,6",01.01.23,LF,F,,,ohne Aufwuchs,Forst nördl. Gebiet,"509.863,874 / 5.446.446,081 (EPSG: 25832)",509863874,5446446081,,25832
-9137034,Frankenbach,"3,6",01.01.23,SF,PG,,,,Baumwiese nördl. Gebiet,"511.228,360 / 5.444.446,134 (EPSG: 25832)",511228360,5444446134,,25832
+9137041,Frankenbach,0.6,01.01.23,LF,F,,,ohne Aufwuchs,Forst nördl. Gebiet,"509.863,874 / 5.446.446,081 (EPSG: 25832)",509863874,5446446081,,25832
+9137034,Frankenbach,3.6,01.01.23,SF,PG,,,,Baumwiese nördl. Gebiet,"511.228,360 / 5.444.446,134 (EPSG: 25832)",511228360,5444446134,,25832
 9126070,Klingenberg,16,01.01.23,SF,FGA,,,,Garten/Erholungsfläche,"510.598,613 / 5.440.677,017 (EPSG: 25832)",510598613,5440677017,,25832
-9125051,Böckingen,"8,5",01.01.23,LF,WG,,,ohne Steilhanglagen,Weinberg,"512.425,215 / 5.441.375,656 (EPSG: 25832)",512425215,5441375656,,25832
-9125023,Böckingen,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese nördl. Ludwigsburger Str.,"512.252,146 / 5.442.120,962 (EPSG: 25832)",512252146,5442120962,,25832
-9125013,Böckingen,"4,2",01.01.23,LF,A,,,,Acker nördl. Ludwigsburger Str.,"512.252,146 / 5.442.180,962 (EPSG: 25832)",512252146,5442180962,,25832
+9125051,Böckingen,8.5,01.01.23,LF,WG,,,ohne Steilhanglagen,Weinberg,"512.425,215 / 5.441.375,656 (EPSG: 25832)",512425215,5441375656,,25832
+9125023,Böckingen,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese nördl. Ludwigsburger Str.,"512.252,146 / 5.442.120,962 (EPSG: 25832)",512252146,5442120962,,25832
+9125013,Böckingen,4.2,01.01.23,LF,A,,,,Acker nördl. Ludwigsburger Str.,"512.252,146 / 5.442.180,962 (EPSG: 25832)",512252146,5442180962,,25832
 9126130,Klingenberg,320,01.01.23,B,MI,,0.80,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 400 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²","Ortskern, Leingartener Str./ Im Bruch","511.178,441 / 5.440.765,708 (EPSG: 25832)",511178441,5440765708,,25832
 9148910,Horkheim,150,01.01.23,B,GE,,,Gewerbegebiet,Amsterdamer Straße,"512.531,991 / 5.440.616,241 (EPSG: 25832)",512531991,5440616241,,25832
 9126930,Klingenberg,60,01.01.23,B,G,ASB,,,GE Außen,"510.279,701 / 5.440.883,878 (EPSG: 25832)",510279701,5440883878,,25832
@@ -181,14 +181,14 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9125940,Böckingen,60,01.01.23,B,G,ASB,,,Gewerbe außen,"511.927,146 / 5.441.910,962 (EPSG: 25832)",511927146,5441910962,,25832
 9125033,Böckingen,,01.01.23,B,G,ASB,,Kein Bodenrichtwert festgesetzt,Viehweide,"514.219,170 / 5.441.733,375 (EPSG: 25832)",514219170,5441733375,,25832
 9103911,Sontheim,345,01.01.23,B,SO,,,Gewerbe mit großflächigem Handel (>800m² Verkaufsfläche),"Gewerbegebiet, Kreuzäckerstr./Heinrich-H","514.852,146 / 5.441.500,962 (EPSG: 25832)",514852146,5441500962,,25832
-9126030,Klingenberg,"3,4",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"512.190,297 / 5.441.153,948 (EPSG: 25832)",512190297,5441153948,,25832
-9126050,Klingenberg,"9,5",01.01.23,LF,WG,,,ohne Steilhanglagen,Weinberg,"511.630,047 / 5.440.892,498 (EPSG: 25832)",511630047,5440892498,,25832
+9126030,Klingenberg,3.4,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"512.190,297 / 5.441.153,948 (EPSG: 25832)",512190297,5441153948,,25832
+9126050,Klingenberg,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,Weinberg,"511.630,047 / 5.440.892,498 (EPSG: 25832)",511630047,5440892498,,25832
 9126010,Klingenberg,4,01.01.23,LF,A,,,,Acker,"510.618,724 / 5.440.878,132 (EPSG: 25832)",510618724,5440878132,,25832
-9126020,Klingenberg,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"511.184,720 / 5.440.065,052 (EPSG: 25832)",511184720,5440065052,,25832
+9126020,Klingenberg,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"511.184,720 / 5.440.065,052 (EPSG: 25832)",511184720,5440065052,,25832
 9125250,Böckingen,370,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²","Nördlich der Ludwigsburger Str.,Ortsausg","513.448,440 / 5.441.519,969 (EPSG: 25832)",513448440,5441519969,,25832
-9125031,Böckingen,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche Vorderer Kreuzgrund,"514.002,146 / 5.443.970,962 (EPSG: 25832)",514002146,5443970962,,25832
-9125021,Böckingen,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese Vorderer Kreuzgrund,"514.002,146 / 5.444.030,962 (EPSG: 25832)",514002146,5444030962,,25832
-9125011,Böckingen,"4,2",01.01.23,LF,A,,,,Acker Vorderer Kreuzgrund,"514.002,146 / 5.444.100,962 (EPSG: 25832)",514002146,5444100962,,25832
+9125031,Böckingen,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche Vorderer Kreuzgrund,"514.002,146 / 5.443.970,962 (EPSG: 25832)",514002146,5443970962,,25832
+9125021,Böckingen,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese Vorderer Kreuzgrund,"514.002,146 / 5.444.030,962 (EPSG: 25832)",514002146,5444030962,,25832
+9125011,Böckingen,4.2,01.01.23,LF,A,,,,Acker Vorderer Kreuzgrund,"514.002,146 / 5.444.100,962 (EPSG: 25832)",514002146,5444100962,,25832
 9125074,Böckingen,20,01.01.23,SF,FGA,,,,FGA lärmbelastet,"514.002,146 / 5.443.910,962 (EPSG: 25832)",514002146,5443910962,,25832
 9102960,Neckargartach,105,01.01.23,B,SO,MED,,,Klinikum am Gesundbrunnen,"513.928,471 / 5.444.555,652 (EPSG: 25832)",513928471,5444555652,,25832
 9125922,Böckingen,175,01.01.23,B,GE,,,Gewerbegebiet,Böckingen Nord,"514.493,724 / 5.443.833,858 (EPSG: 25832)",514493724,5443833858,,25832
@@ -215,35 +215,35 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9102230,Neckargartach,170,01.01.23,B,W,ASB,,,Wohnen außen,"513.307,886 / 5.446.349,070 (EPSG: 25832)",513307886,5446349070,,25832
 9125910,Böckingen,115,01.01.23,B,GE,,,Gewerbegebiet,"Böckingen- West, Großgartacher Straße","511.858,400 / 5.443.229,103 (EPSG: 25832)",511858400,5443229103,,25832
 9102071,Neckargartach,17,01.01.23,SF,FGA,,,,"Garten/Erholungsfläche, Süd","513.876,815 / 5.445.720,516 (EPSG: 25832)",513876815,5445720516,,25832
-9102031,Neckargartach,"3,5",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"513.757,564 / 5.445.086,992 (EPSG: 25832)",513757564,5445086992,,25832
+9102031,Neckargartach,3.5,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"513.757,564 / 5.445.086,992 (EPSG: 25832)",513757564,5445086992,,25832
 9137074,Frankenbach,16,01.01.23,SF,FGA,,,,"FGA Riedwiesen, Dörnle","513.032,146 / 5.445.430,962 (EPSG: 25832)",513032146,5445430962,,25832
-9137033,Frankenbach,"3,6",01.01.23,SF,PG,,,,"Baumwiese Riedwiesen, Dörnle","512.912,146 / 5.445.410,962 (EPSG: 25832)",512912146,5445410962,,25832
+9137033,Frankenbach,3.6,01.01.23,SF,PG,,,,"Baumwiese Riedwiesen, Dörnle","512.912,146 / 5.445.410,962 (EPSG: 25832)",512912146,5445410962,,25832
 9137160,Frankenbach,390,01.01.23,B,MI,,1.00,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 400 m², Doppelhaushälften: 200 m², Reihenmittelhäuser: 200 m²","Ortsmitte, Saarbrückener Str./ Leintalst","512.362,740 / 5.445.041,884 (EPSG: 25832)",512362740,5445041884,,25832
 9137172,Frankenbach,160,01.01.23,B,W,ASB,,,"W außen Riedwiesen, Dörnle","512.862,146 / 5.445.310,962 (EPSG: 25832)",512862146,5445310962,,25832
 9137014,Frankenbach,4,01.01.23,LF,A,,,,"Acker Riedwiesen, Dörnle","512.772,146 / 5.445.250,962 (EPSG: 25832)",512772146,5445250962,,25832
-9102021,Neckargartach,"1,6",01.01.23,LF,GR,,,,Wiese,"513.755,079 / 5.445.146,618 (EPSG: 25832)",513755079,5445146618,,25832
-9102011,Neckargartach,"4,1",01.01.23,LF,A,,,,Acker,"513.767,502 / 5.445.201,275 (EPSG: 25832)",513767502,5445201275,,25832
-9137023,Frankenbach,"1,6",01.01.23,LF,GR,,,,"Wiese Riedwiesen, Dörnle","512.712,146 / 5.445.300,962 (EPSG: 25832)",512712146,5445300962,,25832
+9102021,Neckargartach,1.6,01.01.23,LF,GR,,,,Wiese,"513.755,079 / 5.445.146,618 (EPSG: 25832)",513755079,5445146618,,25832
+9102011,Neckargartach,4.1,01.01.23,LF,A,,,,Acker,"513.767,502 / 5.445.201,275 (EPSG: 25832)",513767502,5445201275,,25832
+9137023,Frankenbach,1.6,01.01.23,LF,GR,,,,"Wiese Riedwiesen, Dörnle","512.712,146 / 5.445.300,962 (EPSG: 25832)",512712146,5445300962,,25832
 9102980,Neckargartach,60,01.01.23,B,G,,,,Gewerbe außen,"513.310,371 / 5.446.416,149 (EPSG: 25832)",513310371,5446416149,,25832
 9137902,Frankenbach,60,01.01.23,B,G,ASB,,,G außen,"512.892,146 / 5.445.360,962 (EPSG: 25832)",512892146,5445360962,,25832
 9137150,Frankenbach,410,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Hipfelhofer Straße/ Leisbrunnenstraße,"512.217,390 / 5.444.840,041 (EPSG: 25832)",512217390,5444840041,,25832
 9137140,Frankenbach,470,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Kaiserslauterner Straße/ Ödenburger Stra,"512.852,146 / 5.445.130,962 (EPSG: 25832)",512852146,5445130962,,25832
 9137130,Frankenbach,400,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Schleifweg/ Steinhaldestraße,"512.609,141 / 5.444.768,053 (EPSG: 25832)",512609141,5444768053,,25832
-9137032,Frankenbach,"3,6",01.01.23,SF,PG,,,,Baumwiese nordöstl. Gebiet mit Höfen,"512.752,146 / 5.445.990,962 (EPSG: 25832)",512752146,5445990962,,25832
+9137032,Frankenbach,3.6,01.01.23,SF,PG,,,,Baumwiese nordöstl. Gebiet mit Höfen,"512.752,146 / 5.445.990,962 (EPSG: 25832)",512752146,5445990962,,25832
 9137100,Frankenbach,610,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²","Maihalde, Panoramaweg/ Burgundenstraße b","512.721,309 / 5.445.702,227 (EPSG: 25832)",512721309,5445702227,,25832
 9137110,Frankenbach,540,01.01.23,B,WA,,0.60,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Neuwiesenstraße,"512.445,074 / 5.445.282,016 (EPSG: 25832)",512445074,5445282016,,25832
 9137120,Frankenbach,560,01.01.23,B,WA,,0.50,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Im Krautgarten/ Lückenstraße,"512.163,818 / 5.444.958,906 (EPSG: 25832)",512163818,5444958906,,25832
 9102231,Neckargartach,115,01.01.23,B,W,ASB,,,Wohnen außen,"513.469,969 / 5.448.181,537 (EPSG: 25832)",513469969,5448181537,,25832
 9137171,Frankenbach,160,01.01.23,B,W,ASB,,,W außen nordöstl. Gebiet mit Höfen,"512.399,273 / 5.446.024,957 (EPSG: 25832)",512399273,5446024957,,25832
 9125075,Böckingen,35,01.01.23,SF,KGA,,,,KGA,"512.932,146 / 5.444.220,962 (EPSG: 25832)",512932146,5444220962,,25832
-9102022,Neckargartach,"1,6",01.01.23,LF,GR,,,,Wiese,"514.950,117 / 5.447.898,856 (EPSG: 25832)",514950117,5447898856,,25832
-9102010,Neckargartach,"4,1",01.01.23,LF,A,,,,Acker,"513.858,655 / 5.447.164,671 (EPSG: 25832)",513858655,5447164671,,25832
+9102022,Neckargartach,1.6,01.01.23,LF,GR,,,,Wiese,"514.950,117 / 5.447.898,856 (EPSG: 25832)",514950117,5447898856,,25832
+9102010,Neckargartach,4.1,01.01.23,LF,A,,,,Acker,"513.858,655 / 5.447.164,671 (EPSG: 25832)",513858655,5447164671,,25832
 9137073,Frankenbach,16,01.01.23,SF,FGA,,,,FGA nordöstl. Gebiet mit Höfen,"512.752,146 / 5.445.940,962 (EPSG: 25832)",512752146,5445940962,,25832
 9137012,Frankenbach,4,01.01.23,LF,A,,,,Acker nordöstl. Gebiet mit Höfen,"512.752,146 / 5.446.100,962 (EPSG: 25832)",512752146,5446100962,,25832
-9102040,Neckargartach,"0,6",01.01.23,LF,F,,,ohne Aufwuchs,Wald,"511.412,681 / 5.447.160,745 (EPSG: 25832)",511412681,5447160745,,25832
-9137022,Frankenbach,"1,6",01.01.23,LF,GR,,,,Wiese nordöstl.,"512.752,146 / 5.446.040,962 (EPSG: 25832)",512752146,5446040962,,25832
+9102040,Neckargartach,0.6,01.01.23,LF,F,,,ohne Aufwuchs,Wald,"511.412,681 / 5.447.160,745 (EPSG: 25832)",511412681,5447160745,,25832
+9137022,Frankenbach,1.6,01.01.23,LF,GR,,,,Wiese nordöstl.,"512.752,146 / 5.446.040,962 (EPSG: 25832)",512752146,5446040962,,25832
 9102072,Neckargartach,9,01.01.23,SF,FGA,,,Nord,"Garten/Erholungsfläche, Nord","514.196,301 / 5.447.203,933 (EPSG: 25832)",514196301,5447203933,,25832
-9102032,Neckargartach,"3,5",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"512.841,789 / 5.446.976,218 (EPSG: 25832)",512841789,5446976218,,25832
+9102032,Neckargartach,3.5,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"512.841,789 / 5.446.976,218 (EPSG: 25832)",512841789,5446976218,,25832
 9102160,Neckargartach,580,01.01.23,B,WA,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Widmannstr./ Siedlungsweg/ Leinbachstr./,"514.507,142 / 5.445.782,985 (EPSG: 25832)",514507142,5445782985,,25832
 9102130,Neckargartach,400,01.01.23,B,MI,,0.90,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 400 m², Doppelhaushälften: 200 m², Reihenmittelhäuser: 200 m²","Ortskern bis Wimpfener-/ Hirschstr., ent","514.675,149 / 5.446.227,474 (EPSG: 25832)",514675149,5446227474,,25832
 9102170,Neckargartach,670,01.01.23,B,WR,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Südlich Sachsenäckerstr./ In der Steig/,"514.610,448 / 5.445.078,787 (EPSG: 25832)",514610448,5445078787,,25832
@@ -253,7 +253,7 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9137901,Frankenbach,60,01.01.23,B,G,ASB,,,G außen nordöstl. Gebiet mit Höfen,"512.404,809 / 5.446.081,698 (EPSG: 25832)",512404809,5446081698,,25832
 9102073,Neckargartach,7,01.01.23,SF,KGA,,,,"KGA, Reißwiesen","513.890,601 / 5.446.012,614 (EPSG: 25832)",513890601,5446012614,,25832
 9102074,Neckargartach,17,01.01.23,SF,FGA,,,,FGA innerörtlich,"514.781,075 / 5.445.191,838 (EPSG: 25832)",514781075,5445191838,,25832
-9159010,Kirchhausen,"2,7",01.01.23,LF,A,,,,Acker,"506.503,914 / 5.448.464,244 (EPSG: 25832)",506503914,5448464244,,25832
+9159010,Kirchhausen,2.7,01.01.23,LF,A,,,,Acker,"506.503,914 / 5.448.464,244 (EPSG: 25832)",506503914,5448464244,,25832
 9103120,Sontheim,770,01.01.23,B,WA,,1.10,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 400 m², Doppelhaushälften: 200 m², Reihenmittelhäuser: 200 m²",Friedrich-Ackermann-Str./ Agnese-Schebes,"514.178,883 / 5.440.727,302 (EPSG: 25832)",514178883,5440727302,,25832
 9103130,Sontheim,580,01.01.23,B,WA,,0.80,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Kolpingstraße bis Raidweg,"514.416,993 / 5.441.051,058 (EPSG: 25832)",514416993,5441051058,,25832
 9103910,Sontheim,165,01.01.23,B,GE,,,Gewerbegebiet,"Gewerbegebiet, Kreuzäckerstr./Heinrich-H","514.945,408 / 5.441.234,616 (EPSG: 25832)",514945408,5441234616,,25832
@@ -262,18 +262,18 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9159930,Kirchhausen,60,01.01.23,B,G,ASB,,,Gewerbe außen,"506.894,520 / 5.448.237,441 (EPSG: 25832)",506894520,5448237441,,25832
 9114950,Biberach,60,01.01.23,B,G,ASB,,,Gewerbe Außen,"510.128,343 / 5.447.653,735 (EPSG: 25832)",510128343,5447653735,,25832
 9159140,Kirchhausen,145,01.01.23,B,W,ASB,,,Wohnen außen,"506.890,320 / 5.448.363,443 (EPSG: 25832)",506890320,5448363443,,25832
-9159040,Kirchhausen,"0,6",01.01.23,LF,F,,,ohne Aufwuchs,Wald,"504.693,686 / 5.448.964,052 (EPSG: 25832)",504693686,5448964052,,25832
-9159071,Kirchhausen,"5,5",01.01.23,SF,FGA,,,,FGA,"507.369,128 / 5.448.111,439 (EPSG: 25832)",507369128,5448111439,,25832
-9159030,Kirchhausen,"2,2",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"509.145,755 / 5.448.069,438 (EPSG: 25832)",509145755,5448069438,,25832
-9159020,Kirchhausen,"1,4",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"509.275,957 / 5.446.918,620 (EPSG: 25832)",509275957,5446918620,,25832
-9114040,Biberach,"0,6",01.01.23,LF,F,,,ohne Aufwuchs,Wald,"509.270,074 / 5.449.932,439 (EPSG: 25832)",509270074,5449932439,,25832
-9114071,Biberach,"5,5",01.01.23,SF,FGA,,,,Garten/Erholungsfläche,"509.900,902 / 5.449.996,809 (EPSG: 25832)",509900902,5449996809,,25832
-9114010,Biberach,"2,9",01.01.23,LF,A,,,,Acker,"510.377,241 / 5.447.932,673 (EPSG: 25832)",510377241,5447932673,,25832
-9114020,Biberach,"1,4",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"511.741,888 / 5.449.533,344 (EPSG: 25832)",511741888,5449533344,,25832
-9114030,Biberach,"2,3",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"511.754,762 / 5.449.893,817 (EPSG: 25832)",511754762,5449893817,,25832
+9159040,Kirchhausen,0.6,01.01.23,LF,F,,,ohne Aufwuchs,Wald,"504.693,686 / 5.448.964,052 (EPSG: 25832)",504693686,5448964052,,25832
+9159071,Kirchhausen,5.5,01.01.23,SF,FGA,,,,FGA,"507.369,128 / 5.448.111,439 (EPSG: 25832)",507369128,5448111439,,25832
+9159030,Kirchhausen,2.2,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"509.145,755 / 5.448.069,438 (EPSG: 25832)",509145755,5448069438,,25832
+9159020,Kirchhausen,1.4,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"509.275,957 / 5.446.918,620 (EPSG: 25832)",509275957,5446918620,,25832
+9114040,Biberach,0.6,01.01.23,LF,F,,,ohne Aufwuchs,Wald,"509.270,074 / 5.449.932,439 (EPSG: 25832)",509270074,5449932439,,25832
+9114071,Biberach,5.5,01.01.23,SF,FGA,,,,Garten/Erholungsfläche,"509.900,902 / 5.449.996,809 (EPSG: 25832)",509900902,5449996809,,25832
+9114010,Biberach,2.9,01.01.23,LF,A,,,,Acker,"510.377,241 / 5.447.932,673 (EPSG: 25832)",510377241,5447932673,,25832
+9114020,Biberach,1.4,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"511.741,888 / 5.449.533,344 (EPSG: 25832)",511741888,5449533344,,25832
+9114030,Biberach,2.3,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"511.754,762 / 5.449.893,817 (EPSG: 25832)",511754762,5449893817,,25832
 9114070,Biberach,13,01.01.23,SF,FGA,,,Gärten innerörtlich,"Garten/Erholungsfl., Gärten innerörtlich","510.657,247 / 5.448.966,427 (EPSG: 25832)",510657247,5448966427,,25832
-9101022,Heilbronn,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"515.352,146 / 5.448.080,962 (EPSG: 25832)",515352146,5448080962,,25832
-9101015,Heilbronn,"9,5",01.01.23,LF,A,,,,Acker,"515.352,146 / 5.448.160,962 (EPSG: 25832)",515352146,5448160962,,25832
+9101022,Heilbronn,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"515.352,146 / 5.448.080,962 (EPSG: 25832)",515352146,5448080962,,25832
+9101015,Heilbronn,9.5,01.01.23,LF,A,,,,Acker,"515.352,146 / 5.448.160,962 (EPSG: 25832)",515352146,5448160962,,25832
 9101340,Heilbronn,770,01.01.23,B,MI,,1.50,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Friedrich-Dürr-Straße/ Sontheimer Straße,"515.282,581 / 5.441.856,167 (EPSG: 25832)",515282581,5441856167,,25832
 9101931,Heilbronn,205,01.01.23,B,GE,,,Gewerbegebiet,Zukunftspark Wohlgelegen,"515.256,915 / 5.444.708,641 (EPSG: 25832)",515256915,5444708641,,25832
 9101910,Heilbronn,175,01.01.23,B,GI,,,Industriegebiet,"Industriegebiet Neckar, bis Karl-Wüst-St","515.847,498 / 5.445.849,419 (EPSG: 25832)",515847498,5445849419,,25832
@@ -339,8 +339,8 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert [€],Stichtag des Bodenrichtwerts,
 9101920,Heilbronn,175,01.01.23,B,GI,,,Industriegebiet,"Industriegebiet Neckar, bis Hans-Seyfer-","515.748,862 / 5.444.898,093 (EPSG: 25832)",515748862,5444898093,,25832
 9101990,Heilbronn,60,01.01.23,B,G,ASB,,,Gewerbe außen,"517.002,146 / 5.445.520,962 (EPSG: 25832)",517002146,5445520962,,25832
 9101078,Heilbronn,13,01.01.23,SF,FGA,,,,"FGA  verkehrsbelastet, Neckarsulmer Str.","516.493,675 / 5.445.783,141 (EPSG: 25832)",516493675,5445783141,,25832
-9101033,Heilbronn,"3,6",01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"516.702,146 / 5.446.020,962 (EPSG: 25832)",516702146,5446020962,,25832
+9101033,Heilbronn,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"516.702,146 / 5.446.020,962 (EPSG: 25832)",516702146,5446020962,,25832
 9101082,Heilbronn,26,01.01.23,SF,FGA,,,,"FGA gr. Stiftsberg, kl. Stiftsber","516.902,146 / 5.445.940,962 (EPSG: 25832)",516902146,5445940962,,25832
-9101023,Heilbronn,"1,8",01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"516.652,146 / 5.446.120,962 (EPSG: 25832)",516652146,5446120962,,25832
-9101058,Heilbronn,"9,5",01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg NW,NO","516.902,146 / 5.446.100,962 (EPSG: 25832)",516902146,5446100962,,25832
+9101023,Heilbronn,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"516.652,146 / 5.446.120,962 (EPSG: 25832)",516652146,5446120962,,25832
+9101058,Heilbronn,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg NW,NO","516.902,146 / 5.446.100,962 (EPSG: 25832)",516902146,5446100962,,25832
 9101085,Heilbronn,13,01.01.23,SF,KGA,,,,"KGA, Am Sandweg","516.251,931 / 5.445.465,043 (EPSG: 25832)",516251931,5445465043,,25832
