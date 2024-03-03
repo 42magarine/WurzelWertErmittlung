@@ -9,17 +9,17 @@ if __name__ == "__main__":
     x_col_name = 'X-Koordinate'
     y_col_name = 'Y-Koordinate'
     boden_col_name = 'Bodenrichtwert'
-    radius = 200000
+    radius = 250
 
     polygon, point_cloud = generate_point_cloud("punkte_heilbronn.csv", 500)
     bodenwert_points = read_coordinates_from_file(file_path, x_col_name, y_col_name, boden_col_name)
-    print(bodenwert_points)
+    # print(bodenwert_points)
     point_cloud_with_value = []
     for point in point_cloud:
         closest_bodenwert = shortest_distance(point.x, point.y, bodenwert_points)
-        print("Bodenwert: " + str(closest_bodenwert))
+        # print("Bodenwert: " + str(closest_bodenwert))
         count_trees = count_points_in_radius(folder_path, radius, x_col_name, y_col_name, point)
-        print("Count " + str(count_trees))
+        # print("Count " + str(count_trees))
         point_cloud_with_value.append(Point(point.x, point.y, division(count_trees, closest_bodenwert)))
         
     # print(point_cloud_with_value)
