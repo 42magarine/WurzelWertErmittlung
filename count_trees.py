@@ -42,7 +42,7 @@ def read_coordinates_from_file(file_path, x_col_name, y_col_name, boden_col_name
         bodenwert = header.index(boden_col_name)
 
         for row in csv_reader:
-            x1, y1, wert= map(float, [row[x_col_index], row[y_col_index]], int, [row[bodenwert]])
+            x1, y1, wert= map(float, [row[x_col_index], row[y_col_index], row[bodenwert]])
 
             # Füge Koordinaten zur Liste hinzu
             points.append((x1 / 1000, y1 / 1000, wert))  # Der dritte Wert ist die Anzahl der gefundenen Punkte
