@@ -13,13 +13,16 @@ if __name__ == "__main__":
 
     polygon, point_cloud = generate_point_cloud("punkte_heilbronn.csv", 500)
     bodenwert_points = read_coordinates_from_file(file_path, x_col_name, y_col_name, boden_col_name)
+    print(bodenwert_points)
     point_cloud_with_value = []
     for point in point_cloud:
         closest_bodenwert = shortest_distance(point.x, point.y, bodenwert_points)
-        count_trees = count_points_in_radius(folder_path, 250000, x_col_name, y_col_name)
-        point_cloud_with_value.append = Point(point.x, point.y, division(count_trees, closest_bodenwert))
+        print("Bodenwert: " + str(closest_bodenwert))
+        count_trees = count_points_in_radius(folder_path, radius, x_col_name, y_col_name, point)
+        print("Count " + str(count_trees))
+        point_cloud_with_value.append(Point(point.x, point.y, division(count_trees, closest_bodenwert)))
         
-    print(point_cloud_with_value)
+    # print(point_cloud_with_value)
     plot_point_cloud(polygon, point_cloud_with_value)
     # plot_gradient_map(polygon, point_cloud)
     

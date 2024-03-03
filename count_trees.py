@@ -42,7 +42,7 @@ def read_coordinates_from_file(file_path, x_col_name, y_col_name, boden_col_name
         bodenwert = header.index(boden_col_name)
 
         for row in csv_reader:
-            x1, y1, wert= map(float, [row[x_col_index], row[y_col_index], row[bodenwert]])
+            x1, y1, wert = map(float, [row[x_col_index], row[y_col_index], row[bodenwert]])
 
             # Füge Koordinaten zur Liste hinzu
             points.append((x1 / 1000, y1 / 1000, wert))  # Der dritte Wert ist die Anzahl der gefundenen Punkte
@@ -55,6 +55,7 @@ def count_points_in_radius(folder_path, radius, x_col_name, y_col_name, point):
 
 
     # Zähle Punkte in Radius aus den Dateien im Ordner
+    count = 0;
     for filename in os.listdir(folder_path):
         file_path_2 = os.path.join(folder_path, filename)
 
@@ -69,7 +70,7 @@ def count_points_in_radius(folder_path, radius, x_col_name, y_col_name, point):
             for row in csv_reader:
                 x2, y2 = map(float, [row[x_col_index_2], row[y_col_index_2]])
                 # Überprüfe, ob die Distanz innerhalb des Radius liegt
-                for i, (point.x, point.y, count) in enumerate(points):
+                for i, (point.x, point.y) in enumerate(points):
                     if calculate_distance(point.x1, point.x1, x2 / 1000, y2 / 1000) <= radius:
                         count += 1
 
