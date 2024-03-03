@@ -8,7 +8,6 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert,Stichtag des Bodenrichtwerts,Entwic
 9148020,Horkheim,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"512.832,133 / 5.439.534,770 (EPSG: 25832)",512832133,5439534770,,25832
 9148050,Horkheim,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,Weinberg,"511.655,341 / 5.438.464,959 (EPSG: 25832)",511655341,5438464959,,25832
 9148920,Horkheim,8,01.01.23,SF,AB,STN,,,Steinbruch,"513.074,999 / 5.438.589,006 (EPSG: 25832)",513074999,5438589006,,25832
-9148160,Horkheim,,01.01.23,SF,SPO,,,Kein Bodenrichtwert festgesetzt,"Kleintierzucht, Hundesportanlage","512.815,297 / 5.438.740,956 (EPSG: 25832)",512815297,5438740956,,25832
 9101016,Heilbronn,9.5,01.01.23,LF,A,,,,Acker,"516.652,146 / 5.446.200,962 (EPSG: 25832)",516652146,5446200962,,25832
 9101059,Heilbronn,11.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg S, W, O","516.902,146 / 5.446.020,962 (EPSG: 25832)",516902146,5446020962,,25832
 9103915,Sontheim,60,01.01.23,B,G,ASB,,,Gewerbe außen,"513.854,968 / 5.439.567,086 (EPSG: 25832)",513854968,5439567086,,25832
@@ -30,7 +29,6 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert,Stichtag des Bodenrichtwerts,Entwic
 9103051,Sontheim,11.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg, Süd, West, Ost","516.557,910 / 5.439.819,770 (EPSG: 25832)",516557910,5439819770,,25832
 9103914,Sontheim,60,01.01.23,B,G,ASB,,,Gewerbe außen,"516.002,631 / 5.440.243,027 (EPSG: 25832)",516002631,5440243027,,25832
 9101075,Heilbronn,26,01.01.23,SF,FGA,,,,FGA Ost,"518.447,395 / 5.441.862,151 (EPSG: 25832)",518447395,5441862151,,25832
-9101084,Heilbronn,,01.01.23,SF,SPO,,,Kein Bodenrichtwert festgesetzt,Theresienwiese,"514.837,692 / 5.442.503,273 (EPSG: 25832)",514837692,5442503273,,25832
 9101994,Heilbronn,60,01.01.23,B,G,,,,Gewerbe außen,"516.827,146 / 5.440.260,962 (EPSG: 25832)",516827146,5440260962,,25832
 9103040,Sontheim,1.1,01.01.23,LF,F,,,ohne Aufwuchs,Wald,"517.868,315 / 5.439.536,390 (EPSG: 25832)",517868315,5439536390,,25832
 9101970,Heilbronn,195,01.01.23,B,G,,,Gewerbegebiet,Knorrstraße,"515.608,500 / 5.442.199,725 (EPSG: 25832)",515608500,5442199725,,25832
@@ -105,7 +103,6 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert,Stichtag des Bodenrichtwerts,Entwic
 9101502,Heilbronn,195,01.01.23,B,W,ASB,,,Wohnen außen,"518.718,856 / 5.445.046,819 (EPSG: 25832)",518718856,5445046819,,25832
 9101150,Heilbronn,700,01.01.23,B,WA,,0.80,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Südwestl.Schickhardtstr./nördl.Burenstr.,"516.667,649 / 5.444.525,745 (EPSG: 25832)",516667649,5444525745,,25832
 9101180,Heilbronn,690,01.01.23,B,WR,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Haller Straße/ südlich Paul-Göbel-Straße,"517.241,542 / 5.443.905,636 (EPSG: 25832)",517241542,5443905636,,25832
-9101083,Heilbronn,,01.01.23,SF,SPO,,,Kein Bodenrichtwert festgesetzt,Pfühlpark,"518.045,803 / 5.443.046,038 (EPSG: 25832)",518045803,5443046038,,25832
 9100045,Heilbronn,1180,01.01.23,B,MK,,3.00,Geschäftslagenklasse IIb,GeLa IIb Am Wollhaus,"516.044,617 / 5.442.932,107 (EPSG: 25832)",516044617,5442932107,,25832
 9101992,Heilbronn,60,01.01.23,B,G,ASB,,,Gewerbe außen,"518.718,856 / 5.444.993,070 (EPSG: 25832)",518718856,5444993070,,25832
 9101031,Heilbronn,3.6,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Private Grünfläche,"518.167,346 / 5.444.717,315 (EPSG: 25832)",518167346,5444717315,,25832
@@ -135,7 +132,6 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert,Stichtag des Bodenrichtwerts,Entwic
 9125076,Böckingen,35,01.01.23,SF,KGA,,,,KGA,"513.947,456 / 5.441.309,048 (EPSG: 25832)",513947456,5441309048,,25832
 9125079,Böckingen,20,01.01.23,SF,FGA,,,,FGA,"513.152,954 / 5.441.758,904 (EPSG: 25832)",513152954,5441758904,,25832
 9125077,Böckingen,35,01.01.23,SF,KGA,,,,KGA,"513.024,125 / 5.441.159,412 (EPSG: 25832)",513024125,5441159412,,25832
-9103076,Sontheim,,01.01.23,B,G,ASB,,Kein Bodenrichtwert festgesetzt,Wertwiesenpark,"514.697,264 / 5.441.844,599 (EPSG: 25832)",514697264,5441844599,,25832
 9103917,Sontheim,8,01.01.23,SF,AB,STN,,,"STN, Steinbruch","513.290,950 / 5.439.280,901 (EPSG: 25832)",513290950,5439280901,,25832
 9125193,Böckingen,150,01.01.23,B,W,ASB,,,Wohnen außen,"513.677,146 / 5.441.440,962 (EPSG: 25832)",513677146,5441440962,,25832
 9103150,Sontheim,560,01.01.23,B,WA,,0.80,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Westl. der Lutzstraße/ Lauffener Straße,"513.458,122 / 5.440.481,669 (EPSG: 25832)",513458122,5440481669,,25832
@@ -179,7 +175,6 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert,Stichtag des Bodenrichtwerts,Entwic
 9101370,Heilbronn,550,01.01.23,B,MI,,1.50,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Westlich der Weststraße bis Wacksstraße,"515.043,650 / 5.443.131,980 (EPSG: 25832)",515043650,5443131980,,25832
 9125190,Böckingen,470,01.01.23,B,MI,,0.80,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²",Heckenstraße/ Schafberg/ südl. Eduard-Hi,"513.662,975 / 5.442.596,986 (EPSG: 25832)",513662975,5442596986,,25832
 9125940,Böckingen,60,01.01.23,B,G,ASB,,,Gewerbe außen,"511.927,146 / 5.441.910,962 (EPSG: 25832)",511927146,5441910962,,25832
-9125033,Böckingen,,01.01.23,B,G,ASB,,Kein Bodenrichtwert festgesetzt,Viehweide,"514.219,170 / 5.441.733,375 (EPSG: 25832)",514219170,5441733375,,25832
 9103911,Sontheim,345,01.01.23,B,SO,,,Gewerbe mit großflächigem Handel (>800m² Verkaufsfläche),"Gewerbegebiet, Kreuzäckerstr./Heinrich-H","514.852,146 / 5.441.500,962 (EPSG: 25832)",514852146,5441500962,,25832
 9126030,Klingenberg,3.4,01.01.23,SF,PG,,,Grünland mit Bäumen (Streuobst),Baumwiese,"512.190,297 / 5.441.153,948 (EPSG: 25832)",512190297,5441153948,,25832
 9126050,Klingenberg,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,Weinberg,"511.630,047 / 5.440.892,498 (EPSG: 25832)",511630047,5440892498,,25832
@@ -194,7 +189,6 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert,Stichtag des Bodenrichtwerts,Entwic
 9125922,Böckingen,175,01.01.23,B,GE,,,Gewerbegebiet,Böckingen Nord,"514.493,724 / 5.443.833,858 (EPSG: 25832)",514493724,5443833858,,25832
 9125923,Böckingen,350,01.01.23,B,SO,,,Gewerbe mit großflächigem Einzelhandel (>800 m² Verkaufsfläche),Böckingen Nord,"514.388,588 / 5.444.255,508 (EPSG: 25832)",514388588,5444255508,,25832
 9125941,Böckingen,60,01.01.23,B,G,ASB,,,Gewerbe außen,"513.832,146 / 5.443.980,962 (EPSG: 25832)",513832146,5443980962,,25832
-9102950,Neckargartach,,01.01.23,B,G,,,Kein Bodenrichtwert festgesetzt,Freibad Gesundbrunnen,"514.456,099 / 5.444.605,693 (EPSG: 25832)",514456099,5444605693,,25832
 9102190,Neckargartach,290,01.01.23,B,MI,,0.70,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 500 m², Doppelhaushälften: 300 m², Reihenmittelhäuser: 200 m²","Böckinger Straße, ab Neckarhalle entlang","514.863,048 / 5.445.611,933 (EPSG: 25832)",514863048,5445611933,,25832
 9102210,Neckargartach,860,01.01.23,B,WA,MFH,2.80,Geschosswohnungsbau,Manfred-Weinmann Ring,"514.229,350 / 5.444.596,177 (EPSG: 25832)",514229350,5444596177,,25832
 9125170,Böckingen,520,01.01.23,B,MI,,1.00,"Grundstücksgröße: freistehende Ein- bis Dreifamilienhäuser: 400 m², Doppelhaushälften: 200 m², Reihenmittelhäuser: 200 m²","Ortskern, nördlich Schuchmannstr.","514.019,111 / 5.442.616,312 (EPSG: 25832)",514019111,5442616312,,25832
@@ -344,3 +338,9 @@ Bodenrichtwertnummer,Ortsteil,Bodenrichtwert,Stichtag des Bodenrichtwerts,Entwic
 9101023,Heilbronn,1.8,01.01.23,LF,GR,,,"Grünland, Wiese",Wiese,"516.652,146 / 5.446.120,962 (EPSG: 25832)",516652146,5446120962,,25832
 9101058,Heilbronn,9.5,01.01.23,LF,WG,,,ohne Steilhanglagen,"Weinberg NW,NO","516.902,146 / 5.446.100,962 (EPSG: 25832)",516902146,5446100962,,25832
 9101085,Heilbronn,13,01.01.23,SF,KGA,,,,"KGA, Am Sandweg","516.251,931 / 5.445.465,043 (EPSG: 25832)",516251931,5445465043,,25832
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
