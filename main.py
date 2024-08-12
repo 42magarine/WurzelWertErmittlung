@@ -1,29 +1,34 @@
 # Main program
+
 from count_trees import count_points_in_radius, read_coordinates_from_file, shortest_distance, division
 from point_cloud import generate_point_cloud, plot_point_cloud, plot_gradient_map
 from shapely.geometry import Point
 
 if __name__ == "__main__":
-    file_path = 'bodenrichtwerte.csv'
-    folder_path = 'trees/'
-    x_col_name = 'X-Koordinate'
-    y_col_name = 'Y-Koordinate'
-    boden_col_name = 'Bodenrichtwert'
-    point_density = 500
-    radius = 500
+    # Define file paths and parameters
+    file_path = 'bodenrichtwerte.csv'	# CSV file containing land value data
+    folder_path = 'trees/'				# Folder containing tree point data
+    x_col_name = 'X-Koordinate'			# Column name for X coordinates in CSV
+    y_col_name = 'Y-Koordinate'			# Column name for Y coordinates in CSV
+    boden_col_name = 'Bodenrichtwert'	# Column name for land value in CSV
+    point_density = 500					# Distance between points in the generated point cloud
+    radius = 500						# Radius for counting points
 
+    # Generate a polygon and point cloud from a CSV file
     polygon, point_cloud = generate_point_cloud("punkte_heilbronn.csv", point_density)
+
+    # Read land value points from the CSV file
     bodenwert_points = read_coordinates_from_file(file_path, x_col_name, y_col_name, boden_col_name)
-    # print(bodenwert_points)
+
+    # Count the number of points (trees) within a given radius for each point in the point cloud
     count_points_in_radius(folder_path, radius, x_col_name, y_col_name, point_cloud)
 
-        # print("Count " + str(count_trees))
-
+    # Calculate a custom value (WurzelWert) based on the number of trees and the closest land value
     for point in point_cloud:
         closest_bodenwert = shortest_distance(point[0], point[1], bodenwert_points)
         point[3] = division(point[2], closest_bodenwert)
         print(point)
-    # print(point_cloud_with_value)
+
+    # Plot the point cloud with the calculated values
     plot_point_cloud(polygon, point_cloud)
     # plot_gradient_map(polygon, point_cloud)
-    
