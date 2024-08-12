@@ -1,17 +1,52 @@
-<h1>WurzelWertErmittlung <br/></h1>
-<img src="./karte_500_500.png"/>
+# WurzelWertErmittlung
 
-# Create a virtual environment
+![Map](./karte_500_500.png)
+
+## Project Overview
+
+WurzelWertErmittlung is a project designed to analyze and visualize geographic data using Python. This includes generating point clouds, analyzing data within specific radii, and plotting results on a map.
+
+## Setup and Installation
+
+Follow these steps to set up the project environment and run the program:
+
+### 1. **Create a Virtual Environment**
+
+To ensure project dependencies are isolated, create a virtual environment:
+
+```sh
 python3 -m venv WurzelWert
+```
 
-# Activate the virtual environment
-source WurzelWert/bin/activate
+### 2. **Activate the Virtual Environment**
 
-# Install dependencies within the virtual environment
+Activate the virtual environment:
+
+- On macOS and Linux:
+  ```sh
+  source WurzelWert/bin/activate
+  ```
+
+### 3. **Install Dependencies**
+
+With the virtual environment activated, install the necessary Python libraries:
+
+```sh
 pip install matplotlib shapely numpy
+```
 
-# Run the program
+### 4. **Run the Program**
+
+Execute the main script to run the program:
+
+```sh
 python -m src.main
+```
 
-# Deactivate the virtual environment when done
+### 5. **Deactivate the Virtual Environment**
+
+When you’re finished, deactivate the virtual environment:
+
+```sh
 deactivate
+```
