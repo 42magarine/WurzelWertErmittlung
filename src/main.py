@@ -1,21 +1,21 @@
 # Main program
 
-from count_trees import count_points_in_radius, read_coordinates_from_file, shortest_distance, division
-from point_cloud import generate_point_cloud, plot_point_cloud, plot_gradient_map
-from shapely.geometry import Point
+from src.count_trees import count_points_in_radius, read_coordinates_from_file, shortest_distance, division
+from src.point_cloud import generate_point_cloud, plot_point_cloud, plot_gradient_map
+# from shapely.geometry import Point
 
 if __name__ == "__main__":
     # Define file paths and parameters
-    file_path = 'bodenrichtwerte.csv'	# CSV file containing land value data
-    folder_path = 'trees/'				# Folder containing tree point data
-    x_col_name = 'X-Koordinate'			# Column name for X coordinates in CSV
-    y_col_name = 'Y-Koordinate'			# Column name for Y coordinates in CSV
-    boden_col_name = 'Bodenrichtwert'	# Column name for land value in CSV
-    point_density = 500					# Distance between points in the generated point cloud
-    radius = 500						# Radius for counting points
+    file_path = 'data/bodenrichtwerte.csv'		# CSV file containing land value data
+    folder_path = 'data/trees/'					# Folder containing tree point data
+    x_col_name = 'X-Koordinate'					# Column name for X coordinates in CSV
+    y_col_name = 'Y-Koordinate'					# Column name for Y coordinates in CSV
+    boden_col_name = 'Bodenrichtwert'			# Column name for land value in CSV
+    point_density = 500							# Distance between points in the generated point cloud
+    radius = 500								# Radius for counting points
 
     # Generate a polygon and point cloud from a CSV file
-    polygon, point_cloud = generate_point_cloud("punkte_heilbronn.csv", point_density)
+    polygon, point_cloud = generate_point_cloud("data/punkte_heilbronn.csv", point_density)
 
     # Read land value points from the CSV file
     bodenwert_points = read_coordinates_from_file(file_path, x_col_name, y_col_name, boden_col_name)

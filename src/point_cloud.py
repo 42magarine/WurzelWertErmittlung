@@ -65,10 +65,10 @@ from matplotlib.patches import PathPatch
 from matplotlib.path import Path
 import numpy as np
 
-# def plot_gradient_map(polygon, point_cloud):
-#     polygon_vertices = np.array(polygon.boundary.xy).T
-#     polygon_path = Path(polygon_vertices)
-#     polygon_patch = PathPatch(polygon_path, facecolor="none", edgecolor="black")
+def plot_gradient_map(polygon, point_cloud):
+    polygon_vertices = np.array(polygon.boundary.xy).T
+    polygon_path = Path(polygon_vertices)
+    polygon_patch = PathPatch(polygon_path, facecolor="none", edgecolor="black")
 
-#     fig, ax = plt.subplots()
-#     ax.add_patch(polygon_patch)
+    fig, ax = plt.subplots()
+    ax.add_patch(polygon_patch)

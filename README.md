@@ -10,8 +10,8 @@ source WurzelWert/bin/activate
 # Install dependencies within the virtual environment
 pip install matplotlib shapely numpy
 
-# Run your program
-python main.py
+# Run the program
+python -m src.main
 
 # Deactivate the virtual environment when done
 deactivate
